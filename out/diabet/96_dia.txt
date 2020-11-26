@@ -1,0 +1,33 @@
+The antimicrobial screening of a Barbadian medicinal plant with indications for 
+use in the treatment of diabetic wound infections.
+
+Carrington S(1), Cohall DH, Gossell-Williams M, Lindo JF.
+
+Author information:
+(1)Faculty of Medical Sciences, The University of the West Indies, Cave Hill, 
+Barbados.
+
+OBJECTIVE: Diabetes mellitus is a chronic non-communicable disease with high 
+prevalence in the North American and Caribbean region. Diabetic Foot Syndrome 
+which is an associated complication can lead to the development of wounds and 
+ulcers which can become infected. Justicia secunda, a plant known locally in 
+Barbados as Bloodroot used in folklore for wound healing, was selected to test 
+its ability to aid diabetic wound healing by antimicrobial activity. It was 
+therefore tested against the bacteria Staphylococcus aureus ATCC 25923, 
+Pseudomonas aeruginosa ATCC 27853, and Enterococcus feacalis (clincal strain) 
+which are commonly found in diabetic wounds.
+METHODS: The plant was collected by local users. Methanol and acetone extracts 
+of the plant were prepared with use of soxhlet extraction. The antimicrobial 
+activity was assessed with the use of a modified Kirby-Baurer method. 
+Concentrations of 200 mg/ml, 100 mg/ml, 10 mg/ml, and 1 mg/ml of the extract 
+were used, with a standard ciprofloxacin 5 microg positive control, and a 5% 
+dimethyl sulfoxide (DMSO) solution negative control.
+RESULTS: The J secunda methanol and acetone extracts with an extraction yield of 
+15.3% and 0.75%, respectively yielded no activity within the concentration range 
+against the three strains of bacteria tested. In comparison with the positive 
+control, relative inhibition zone diameter (RIZD) values of 0% resulted for both 
+the negative control and the extracts, with the positive control having a value 
+of 100%.
+CONCLUSION: The in vitro screen of the extracts prepared from J secunda, yielded 
+no antimicrobial activity against the three strains of bacteria tested and 
+therefore does not support the folklore claims by this mechanism of action.

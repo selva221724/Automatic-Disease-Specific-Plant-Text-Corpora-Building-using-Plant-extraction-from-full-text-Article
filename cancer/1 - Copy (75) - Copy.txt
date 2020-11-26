@@ -1,0 +1,36 @@
+Overview of the anticancer activity of withaferin A, an active constituent of 
+the Indian ginseng Withania somnifera.
+
+Sivasankarapillai VS(1), Madhu Kumar Nair R(2), Rahdar A(3), Bungau S(4), Zaha 
+DC(5), Aleya L(6), Tit DM(4).
+
+Author information:
+(1)Department of Chemistry, NSS Hindu College, Changanacherry, Kerala, 686102, 
+India.
+(2)Department of Chemistry, Mar Thoma College, Thiruvalla, Kerala, 689103, 
+India.
+(3)Department of Physics, Faculty of Science,, University of Zabol, Zabol, Iran.
+(4)Department of Pharmacy, Faculty of Medicine and Pharmacy,, University of 
+Oradea, 410028, Oradea, Romania.
+(5)Department of Preclinical Disciplines, Faculty of Medicine and Pharmacy,, 
+University of Oradea, 410028, Oradea, Romania.
+(6)Laboratoire Chrono-environnement CNRS 6249, Université de Franche-Comté, 
+Besançon, France. danaczaha@gmail.com.
+
+Cancer is still considered a "hopeless case", besides all of the advancements in 
+oncology research. On the other hand, the natural products, as effective lead 
+molecules, have gained significant interest for research due to the absence of 
+toxic and harmful side effects usually associated with conventional treatment 
+methods. Medicinal properties of herbal plants are strongly evidenced in 
+traditional medicine from ancient times. In the context above, withaferin A (WA) 
+was identified as the active principle of the plant Withania somnifera, its 
+molecule being reported to have excellent anticancer and tumour inhibition 
+activities in various cell lines. Furthermore, the in silico approaches in the 
+medicinal chemistry of WA revealed the biological targets and gave momentum for 
+the research that leads to many amazing pharmacological activities of WA which 
+are not yet explored. This includes a broad spectrum of anticancer actions 
+manifested in different organs (breast, pancreas, colon), melanoma and B cell 
+lymphoma, etc. This review is an extensive survey of the most recent anticancer 
+studies reported for WA, along with its mechanism of action and details about 
+its in vitro and/or in vivo behaviour.
+

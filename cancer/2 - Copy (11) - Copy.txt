@@ -1,0 +1,37 @@
+Mol Carcinog. 2008 Dec;47(12):916-24. doi: 10.1002/mc.20442.
+
+Regulation of signaling pathways involved in lupeol induced inhibition of 
+proliferation and induction of apoptosis in human prostate cancer cells.
+
+Prasad S(1), Nigam N, Kalra N, Shukla Y.
+
+Author information:
+(1)Proteomics Laboratory, Indian Institute of Toxicology Research, Lucknow, 
+India.
+
+Retraction in
+    Mol Carcinog. 2020 Jun;59(6):670.
+
+Prostate cancer (PCa) is the most frequently diagnosed noncutaneous cancer and 
+the leading cause of cancer related deaths in men in the United States and many 
+other Asian countries. Dietary factors are considered as a strategic agent to 
+control the risk of PCa. Lupeol, a triterpene, present in fruits and medicinal 
+plants, has been shown to possess many pharmacological properties including 
+anticancer effects. Here, effect of lupeol on cell proliferation and cell death 
+was evaluated using human PCa cells, PC-3. In MTT assay, lupeol inhibited the 
+cell proliferation (12-71%) in dose (50-800 microM) and time dependent manner. 
+Flow-cytometric analysis of cell-cycle revealed that an antiproliferative effect 
+of lupeol (400-600 microM) is associated with an increase in G(2)/M-phase arrest 
+(34-58%). RT-PCR analysis showed that lupeol-induced G2/M-phase arrest was 
+mediated through the inhibition of cyclin regulated signaling pathway. Lupeol 
+inhibited the expression of cyclin B, cdc25C, and plk1 but induced the 
+expression of 14-3-3sigma genes. However no changes were observed in the 
+expression of gadd45, p21(waf1/cip1) and cdc2 genes. Results of western blot 
+showed that lupeol regulates the phosphorylation of cdc2 (Tyr15) and cdc25C 
+(Ser198). Further, on increase of lupeol exposure to PC-3 cells an induction of 
+apoptosis was recorded, which was associated with upregulation of bax, 
+caspase-3, -9, and apaf1 genes and down regulation of antiapoptotic bcl-2 gene. 
+The role of caspase-induced apoptosis was confirmed by increase in reactive 
+oxygen species, loss of mitochondrial membrane potential followed by DNA 
+fragmentation. Thus, our study suggests that lupeol possess novel 
+antiproliferative and apoptotic potential against PCa.

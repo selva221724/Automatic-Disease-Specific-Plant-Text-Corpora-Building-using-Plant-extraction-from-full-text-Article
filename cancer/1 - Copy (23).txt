@@ -1,0 +1,39 @@
+C. elegans protein interaction network analysis probes RNAi validated 
+pro-longevity effect of nhr-6, a human homolog of tumor suppressor Nr4a1.
+
+Akhoon BA(1), Gupta SK(2), Tiwari S(1), Rathor L(1), Pant A(1), Singh N(3), 
+Gupta SK(4), Dandekar T(5)(6), Pandey R(7).
+
+Author information:
+(1)Microbial Technology and Nematology Department, CSIR - Central Institute of 
+Medicinal and Aromatic Plants, Lucknow, 226015, India.
+(2)Department of Bioinformatics, Biocenter, University of Würzburg, Wuerzburg, 
+97074, Germany.
+(3)Department of Bioinformatics, CSIR-Indian Institute of Toxicology Research, 
+Lucknow, 226015, India.
+(4)Department of Systems Biology and Bioinformatics, University of Rostock, 
+Rostock, 18051, Germany.
+(5)Department of Bioinformatics, Biocenter, University of Würzburg, Wuerzburg, 
+97074, Germany. dandekar@biozentrum.uni-wuerzburg.de.
+(6)BioComputing Unit, EMBL Heidelberg, Heidelberg, 69117, Germany. 
+dandekar@biozentrum.uni-wuerzburg.de.
+(7)Microbial Technology and Nematology Department, CSIR - Central Institute of 
+Medicinal and Aromatic Plants, Lucknow, 226015, India. r.pandey@cimap.res.in.
+
+Protein-protein interaction (PPI) studies are gaining momentum these days due to 
+the plethora of various high-throughput experimental methods available for 
+detecting PPIs. Proteins create complexes and networks by functioning in harmony 
+with other proteins and here in silico network biology hold the promise to 
+reveal new functionality of genes as it is very difficult and laborious to carry 
+out experimental high-throughput genetic screens in living organisms. We 
+demonstrate this approach by computationally screening C. elegans conserved 
+homologs of already reported human tumor suppressor and aging associated genes. 
+We select by this nhr-6, vab-3 and gst-23 as predicted longevity genes for RNAi 
+screen. The RNAi results demonstrated the pro-longevity effect of these genes. 
+Nuclear hormone receptor nhr-6 RNAi inhibition resulted in a C. elegans 
+phenotype of 23.46% lifespan reduction. Moreover, we show that nhr-6 regulates 
+oxidative stress resistance in worms and does not affect the feeding behavior of 
+worms. These findings imply the potential of nhr-6 as a common therapeutic 
+target for aging and cancer ailments, stressing the power of in silico PPI 
+network analysis coupled with RNAi screens to describe gene function.
+

@@ -1,0 +1,29 @@
+Sesquiterpene lactones specifically inhibit activation of NF-kappa B by 
+preventing the degradation of I kappa B-alpha and I kappa B-beta.
+
+Hehner SP(1), Heinrich M, Bork PM, Vogt M, Ratter F, Lehmann V, Schulze-Osthoff 
+K, Dröge W, Schmitz ML.
+
+Author information:
+(1)Department of Immunochemistry, German Cancer Research Center (DKFZ), 
+Heidelberg, Germany.
+
+Extracts from certain Mexican Indian medicinal plants used in traditional 
+indigenous medicine for the treatment of inflammations contain sequiterpene 
+lactones (SLs), which specifically inhibit the transcription factor NF-kappa B 
+(Bork, P. M., Schmitz, M. L., Kuhnt, M., Escher, C., and Heinrich, M. (1997) 
+FEBS Lett. 402, 85-90). Here we show that SLs prevented the activation of 
+NF-kappa B by different stimuli such as phorbol esters, tumor necrosis 
+factor-alpha, ligation of the T-cell receptor, and hydrogen peroxide in various 
+cell types. Treatment of cells with SLs prevented the induced degradation of I 
+kappa B-alpha and I kappa B-beta by all these stimuli, suggesting that they 
+interfere with a rather common step in the activation of NF-kappa B. SLs did 
+neither interfere with DNA binding activity of activated NF-kappa B nor with the 
+activity of the protein tyrosine kinases p59fyn and p60arc. Micromolar amounts 
+of SLs prevented the induced expression of the NF-kappa B target gene 
+intracellular adhesion molecule 1. Inhibition of NF-kappa B by SLs resulted in 
+an enhanced cell killing of murine fibroblast cells by tumor necrosis 
+factor-alpha. SLs lacking an exomethylene group in conjugation with the lactone 
+function displayed no inhibitory activity on NF-kappa B. The analysis of the 
+cellular redox state by fluorescence-activated cell sorter showed that the SLs 
+had no direct or indirect anti-oxidant properties.

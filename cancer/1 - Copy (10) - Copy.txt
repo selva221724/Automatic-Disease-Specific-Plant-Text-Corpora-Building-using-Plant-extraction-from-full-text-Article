@@ -1,0 +1,46 @@
+Breast cancer amelioration by Butea monosperma in-vitro and in-vivo.
+
+Karia P(1), Patel KV(2), Rathod SSP(3).
+
+Author information:
+(1)Faculty of Pharmacy, The Maharaja Sayajirao University of Baroda, 
+Vadodara 390001, Gujarat, India. Electronic address: prachidk@gmail.com.
+(2)Faculty of Pharmacy, The Maharaja Sayajirao University of Baroda, 
+Vadodara 390001, Gujarat, India. Electronic address: 
+kirti.patel-pharmacy@msubaroda.ac.in.
+(3)Visiting Faculty, Parul Institute of Pharmacy and Research, P. O. Limda, Ta. 
+Waghodia, Vadodara, Gujarat 391110, India. Electronic address: 
+shivrathod_phar@msubaroda.ac.in.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Butea monosperma belonging to family Fabaceae is 
+used in the Indian traditional medicine (Ayurveda) for various ailments 
+including abdominal tumors and possess anti-estrogenic activity.
+AIM OF THE STUDY: The present study is aimed at investigating the 
+chemo-preventive potential of Butea monosperma in breast cancer and elucidating 
+it's mechanism of action by assessing its effect on key processes like 
+apoptosis, angiogenesis and metastasis.
+METHODS: Cytotoxic potential of methanol extract of Butea monosperma flower 
+(MEBM) was tested in MCF-7 (estrogen receptor positive), MDA-MB-231 (triple 
+negative) and MDA-MB-453 (HER2 positive) human breast cancer cells by MTT assay. 
+Chemo-preventive potential was evaluated in-vivo in Methylnitrosourea (MNU) 
+induced mammary cancer in nulliparous Sprague-Dawley rats. The mechanism for 
+anticancer potential was screened by in-vitro studies involving Annexin V- FITC 
+assay (apoptosis), Chick Chorioallantoic Membrane assay (angiogenesis) and 
+Migration assay (metastasis). Statistical analysis was done by one way and two 
+way ANOVA (for Growth Rate and feed consumption efficiency) followed by post hoc 
+Bonferroni's test with P value < 0.05.
+RESULTS: It is observed that the exposure of MEBM, at various concentrations and 
+time intervals to different cell lines, resulted in decreased cell 
+proliferation. The IC50 value of MCF-7 cells was found significantly less than 
+that of MDA-MB-231 and MDA-MB-453 cells, which indicated that the extract of 
+said medicinal plant were more potent inhibitors of estrogen positive breast 
+cancer cells than other types of breast cancer cells in vitro. Corroborative 
+evidences were acquired in MNU actuated mammary carcinogenesis where MEBM 
+constricted tumor parameters, decreased expression of estrogen and progesterone, 
+nucleic acid content and increased latency period. MEBM also induced apoptosis, 
+inhibited angiogenesis and metastasis in-vitro.
+CONCLUSION: Selective cytotoxic activity in MCF-7 estrogen positive breast 
+cancer cells and inhibition of growth of mammary carcinoma in-vivo by methanol 
+extract of Butea monosperma flowers (MEBM) suggests chemo-prevention through 
+modulation of estrogen and progesterone receptor, apoptotic, anti-angiogenesis 
+and anti-metastatic activity.

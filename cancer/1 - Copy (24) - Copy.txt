@@ -1,0 +1,28 @@
+First ayurvedic approach towards green drugs: anti cervical cancer-cell 
+properties of Clerodendrum viscosum root extract.
+
+Sun C, Nirmalananda S, Jenkins CE, Debnath S, Balambika R, Fata JE, Raja KS(1).
+
+Author information:
+(1)Dept of Chemistry, College of Staten Island/City University of New York, 
+Staten Island, NY 10314, USA. Krishnaswami.Raja@csi.cuny.edu.
+
+The concept of Ayurvedic expert guided drug discovery and development is defined 
+and put to test systematically for the first time in literature. Western Science 
+has explored only ~5% of the approximately 25,000 species of higher plants for 
+drug leads. The ancient medical science of Ayurveda has however employed a much 
+larger spectrum of plants for clinical treatment. Clerodendrum viscosum (CV), a 
+commonly growing weed in the Indian subcontinent has been employed by S. 
+Nirmalananda (Ayurvedic expert) for the treatment of cervical cancer. Here we 
+isolate and characterize a water extract fraction (Cv-AP) from the root of CV 
+and evaluate its anticervical cancer cell bioactivity. Our results indicate that 
+Cv-AP possesses pro-apoptotic, anti-proliferative, and anti-migratory activity 
+in a dose-dependent fashion against cervical cancer cell lines. In contrast, 
+primary fibroblasts (control healthy cells), when exposed to similar 
+concentrations of this extract, fail to undergo apoptosis and remain relatively 
+unaffected. These findings suggest that Clerodendrum viscosum (CV) is a readily 
+available source of components with potent anti-cancer activity and selective 
+bioactivity against cervical cancer cells. The major component in CV-AP was 
+identified as a glycoprotein via SDS Page and Concanavalin-A binding studies. 
+This study serves to illustrate that systematic collaboration with Ayurveda is a 
+practical and powerful strategy in drug discovery and development.

@@ -1,0 +1,24 @@
+Identification and quantification of the active component quercetin 
+3-O-rutinoside from Barringtonia racemosa, targets mitochondrial apoptotic 
+pathway in acute lymphoblastic leukemia.
+
+Samanta SK(1), Bhattacharya K, Mandal C, Pal BC.
+
+Author information:
+(1)Department of Medicinal Chemistry, Indian Institute of Chemical Biology, A 
+Unit of Council of Scientific and Industrial Research, Kolkata, India.
+
+Barringtonia racemosa has been used as a traditional medicine for the treatment 
+of various diseases. The antitumor property of the seed extract of this plant in 
+mice model promotes us to search for the active component present in the fruit 
+extract. Quercetin 3-O-rutinoside (QOR) has been isolated from the fruits of 
+this plant for the first time and quantified by HPLC method. The compound was 
+identified by IR, mass, and NMR (1D, 2D) spectral data analysis. QOR showed 
+dose- and time-dependent anti-proliferative activity in several leukemic cell 
+lines with negligible effect on normal human peripheral blood mononuclear cell 
+(PBMC). A representative T-lineage acute lymphoblastic leukemia cell line 
+(MOLT-3) showed phosphatidyl serine externalization and DNA fragmentation, 
+indicating QOR-induced programmed cell death. We established that QOR-induced 
+apoptosis occurred preferentially on accumulation of cells in the sub-G(0) phase 
+and genomic DNA fragmentation through the activation of mitochondria-dependent 
+caspase cascade for the first time in T-lineage ALL cell line.

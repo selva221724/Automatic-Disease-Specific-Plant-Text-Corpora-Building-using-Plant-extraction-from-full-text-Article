@@ -1,0 +1,34 @@
+Molecular and Computational Studies on Apoptotic Pathway Regulator, Bcl-2 Gene 
+from Breast Cancer Cell Line MCF-7.
+
+Tiwari P(1), Khan MJ(2).
+
+Author information:
+(1)Department of Metabolic and Structural Biology, Central Institute of 
+Medicinal and Aromatic Plants, (CSIR-CIMAP), Lucknow-226 015, India.
+(2)Department of Biochemistry, Aligarh Muslim University, Aligarh-202 002, 
+India.
+
+Cancer is a dreadful disease constituting abnormal growth and proliferation of 
+malignant cells in the body. Next to lung cancer, breast cancer is the most 
+common form of cancer affecting women. The apoptotic pathway regulators, B cell 
+lymphoma family of protein, play a key role in various malignancies defining 
+cancer and their constitutive expression plays an integral role in breast cancer 
+chemotherapy. The research work discusses the identification and molecular 
+cloning of a B cell lymphoma like gene from human breast cancer cell line. The 
+open reading frame of the gene consisted of 965 nucleotides, encoding a protein 
+of 380 amino acids with a predicted molecular weight of 42.5 kilodalton. The 
+predicted physiochemical properties of the gene were as follows: Isoelectric 
+point - 9.49, molecular formula - C1893H3004N534O548S16, total number of 
+negatively charged residues, (Aspartate+Glutamate) - 26, total number of 
+positively charged residues, (Arginine+Lysine)-39, instability index-42.08 
+(unstable protein) and grand average of hydropathicity is -0.202. Additionally, 
+phobius prediction suggested non-cytoplasmic localization of the putative 
+protein. The presence of secondary structure in the protein was determined by 
+Memsat program. A 3 dimensional protein homology model was generated using 
+threading based method of protein modeling for structural and functional 
+annotation of the putative protein. Future prospects accounts for the 
+biochemical characterization of the enzyme including in vitro assays on breast 
+cancer cell line would establish the functional characteristics of the protein 
+and its physiological mechanisms in breast cancer development and its 
+therapeutic-target role in future.

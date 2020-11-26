@@ -1,0 +1,36 @@
+The global problem of diabetes, together with 
+the limited access of large numbers of patients to conventional antidiabetic 
+medicines, continues to drive the search for new agents. Ancient Asian systems 
+such as traditional Chinese medicine, Japanese Kampo medicine, and Indian 
+Ayurvedic medicine, as well as African traditional medicine and many others have 
+identified numerous plants reported anecdotally to treat diabetes; there are 
+probably more than 800 such plants for which there is scientific evidence for 
+their activity, mostly from studies using various models of diabetes in 
+experimental animals.
+AIM OF THE REVIEW: Rather than a comprehensive coverage of the literature, this 
+article aims to identify discrepancies between findings in animal and human 
+studies, and to highlight some of the problems in developing plant extract-based 
+medicines that lower blood glucose in patients with diabetes, as well as to 
+suggest potential ways forward.
+METHODS: In addition to searching the 2018 PubMed literature using the terms 
+'extract AND blood glucose, a search of the whole literature was conducted using 
+the terms 'plant extracts' AND 'blood glucose' AND 'diabetes' AND 'double blind' 
+with 'clinical trials' as a filter. A third search using PubMed and Medline was 
+undertaken for systematic reviews and meta-analyses investigating the effects of 
+plant extracts on blood glucose/glycosylated haemoglobin in patients with 
+relevant metabolic pathologies.
+FINDINGS: Despite numerous animal studies demonstrating the effects of plant 
+extracts on blood glucose, few randomised, double-blind, placebo-controlled 
+trials have been conducted to confirm efficacy in treating humans with diabetes; 
+there have been only a small number of systematic reviews with meta-analyses of 
+clinical studies. Qualitative and quantitative discrepancies between animal and 
+human clinical studies in some cases were marked; the factors contributing to 
+this included variations in the products among different studies, the doses 
+used, differences between animal models and the human disease, and the impact of 
+concomitant therapy in patients, as well as differences in the duration of 
+treatment, and the fact that treatment in animals may begin before or very soon 
+after the induction of diabetes.
+CONCLUSION: The potential afforded by natural products has not yet been realised 
+in the context of treating diabetes mellitus. A systematic, coordinated, 
+international effort is required to achieve the goal of providing anti-diabetic 
+treatments derived from medicinal plants.

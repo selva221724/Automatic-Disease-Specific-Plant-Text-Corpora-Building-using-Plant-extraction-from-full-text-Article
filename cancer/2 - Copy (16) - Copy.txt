@@ -1,0 +1,18 @@
+Mutational analysis of the candidate tumor suppressor gene ING1 in Indian oral 
+squamous cell carcinoma.
+
+Krishnamurthy J(1), Kannan K, Feng J, Mohanprasad BK, Tsuchida N, Shanmugam G.
+
+Author information:
+(1)Cancer Biology Division, School of Biological Sciences, Madurai Kamaraj 
+University, 625 021, Madurai, India.
+
+ING1, a recently identified candidate tumor suppressor gene, involved in the p53 
+signaling pathway is mapped at chromosome 13q34. Since loss of heterozygosity at 
+13q34 has been reported in squamous cell carcinoma of head and neck, we screened 
+for mutations in ING1 by polymerase chain reaction-single strand conformation 
+polymorphism in 71 oral squamous cell carcinomas (OSCC) from India, 15 of which 
+were known to harbor p53 mutations. A single polymorphism (G to A) was detected 
+in 14 (19.7%) of the tumors analyzed. No mutation was observed in any of the 71 
+OSCCs analyzed. These results suggest that ING1 is not a target for mutational 
+inactivation in OSCC of Indians.

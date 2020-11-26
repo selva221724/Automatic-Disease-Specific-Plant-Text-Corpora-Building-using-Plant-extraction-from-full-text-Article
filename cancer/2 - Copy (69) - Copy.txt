@@ -1,0 +1,32 @@
+MDM2/p53 co-expression in oral premalignant and malignant lesions: potential 
+prognostic implications.
+
+Agarwal S(1), Mathur M, Srivastava A, Ralhan R.
+
+Author information:
+(1)Department of Biochemistry, All India Institute of Medical Sciences, Ansari 
+Nagar, New Delhi, India.
+
+The expression of MDM2 protein in betel and tobacco related oral malignancies in 
+Indian population, its relationship to clinicopathological parameters and p53 
+protein expression was investigated. Sixty five oral squamous cell carcinomas 
+(SCCs), 33 premalignant lesions (leukoplakia) and 30 normal oral tissues were 
+assessed by immunohistochemical analysis. MDM2 protein was overexpressed in 
+51/65 (78%) oral SCCs and 17/33 (52%) premalignant lesions; 11/23 hyperplastic 
+lesions and 6/10 dysplastic lesions. mdm2 gene amplification is an infrequent 
+event in oral tumorigenesis. Elevation in the level of MDM2 protein not only in 
+oral SCCs but also in premalignant lesions suggests that altered MDM2 expression 
+is an early even in the pathogenesis of oral neoplasia. The hallmark of the 
+study was the significant association of MDM2 expression with the p53 protein 
+accumulation in 16/33 (49%) oral premalignant lesions (p = 0.001) and 39/65 
+(60%) malignant lesions (p = 0.021), suggesting an active role for MDM2 in 
+binding and inactivating p53 in oral tumorigenesis. Further, significant 
+association of MDM2/p53 co-expression was observed with advanced tumour stage (p 
+= 0.0009), as well as lymph node metastasis (p = 0.0325) features associated 
+with aggressive tumour behaviour and poor prognosis. Discordant 
+MDM2+/p53-phenotype was observed in 12/65 (18%) oral SCCs suggesting a 
+p53-independent role for MDM2 in the pathogenesis of a subset of oral 
+carcinomas. In conclusion, alterations in MDM2 and p53 expression are early 
+events likely to be involved in preinvasive stages in oral tumorigenesis and may 
+be indicative of a 'gain of function' phenotype with more aggressive 
+characteristics.

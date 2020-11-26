@@ -1,0 +1,30 @@
+Extract of Vernonia condensata, Inhibits Tumor Progression and Improves Survival 
+of Tumor-allograft Bearing Mouse.
+
+Thomas E(1), Gopalakrishnan V(2), Somasagara RR(1), Choudhary B(2), Raghavan 
+SC(1).
+
+Author information:
+(1)Department of Biochemistry, Indian Institute of Science, Bangalore, 560 012, 
+India.
+(2)Institute of Bioinformatics and Applied Biotechnology, Electronics City, 
+Bangalore 560 100, India.
+
+Medicinal plants are considered as one of the ideal sources for cancer therapy 
+due to their bioactive contents and low toxicity to humans. Vernonia genus is 
+one of the common medicinal plants, which has wide spread usage in food and 
+medicine. However, there are limited studies to explore its anticancer 
+properties. In the current study, we have used Vernonia condensata, to explore 
+its anticancer activity using various approaches. Here, we show that extract 
+prepared from Vernonia condensata (VCE) exhibits cytotoxic properties against 
+various cancer cells in a dose- and time-dependent manner. Interestingly, when 
+treated with VCE, there was no significant cytotoxicity in peripheral blood 
+mononuclear cells (PBMCs). Flow cytometry analysis revealed that although VCE 
+induced cell death, arrest was not observed. VCE treatment led to disruption of 
+mitochondrial membrane potential in a concentration dependent manner resulting 
+in activation of apoptosis culminating in cell death. Immunoblotting studies 
+revealed that VCE activated intrinsic pathway of apoptosis. More importantly, 
+VCE treatment resulted in tumor regression leading to significant enhancement in 
+life span in treated mice, without showing any detectable side effects. 
+Therefore, for the first time our study reveals the potential of extract from 
+Vernonia condensata to be used as an anticancer agent.

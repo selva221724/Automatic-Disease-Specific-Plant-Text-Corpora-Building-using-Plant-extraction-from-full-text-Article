@@ -1,0 +1,44 @@
+Extraction Optimization for Phenolic- and Withanolide-Rich Fractions from 
+Withania somnifera Roots: Identification and Quantification of Withaferin A, 
+12-Deoxywithastromonolide, and Withanolide A in Plant Materials and Marketed 
+Formulations Using a Reversed-Phase HPLC-Photodiode Array Detection Method.
+
+Kumar S(1), Singh R(1), Gajbhiye N, Dhanani T(1).
+
+Author information:
+(1)Indian Council of Agricultural Research (ICAR), Directorate of Medicinal and 
+Aromatic Plants Research, Boriavi, Anand, Gujarat, India 387310.
+
+Background: Both the roots and leaves of Withania somnifera are products of 
+commerce. They contain active compounds of therapeutic value and mostly 
+different withanolides. Several pharmacological activities of W. somnifera have 
+links to one or more withanolides. The presence of phenolic compounds in 
+extracts could play a vital role in the reduction of blood glucose levels in 
+diabetic subjects. Objective: The present study was carried out for the 
+selection of a solvent to prepare extracts rich in phenolics, withaferin A (WA), 
+12-deoxywithastromonolide (12WD), and withanolide A (WDA). A simple, rapid HPLC 
+method was also developed for the identification and quantification of WA, 12WD, 
+and WDA. Methods: The extraction efficiency of aqueous alcoholic solvents 
+including hexane, chloroform, ethyl acetate, and methanol were compared for 
+three selected withanolides and total phenolic content. The contents of WA, 
+12WD, and WDA and total phenolics were determined in the extracts. The quality 
+of nine formulations containing W. sominfera were also compared in terms of the 
+content of WA, 12WD, and WDA and total phenolics. Results: The maximum extract 
+yield and the total withanolide and phenolic content were obtained from aqueous 
+alcoholic compositions at 50:50 (v/v), 70:30 (v/v), and 100:0 (v/v), 
+respectively. In the case of organic solvents, chloroform and ethyl acetate 
+yielded the highest concentrations of phenolics and three withanolides, 
+respectively. The total phenolic content in formulations was in the range of 
+1.84-3.13%, and total withanolide content showed wide variability. Conclusions: 
+The outcome of the present investigation could be utilized for the selection of 
+extraction solvents to prepare W. somnifera-enriched extracts and their quality 
+monitoring by using the developed and validated HPLC-Photodiode array detection 
+method. Highlights: A process for preparation of phenolics and withanolides 
+(withaferin A, 12-deoxywithastramonolide and withanolide A) enriched extracts of 
+Withania somnifera. Simple and rapid HPLC method was also developed and 
+validated as per the ICH guidelines for identification and quantification of 
+three major withanolides. The developed HPLC method was applied to analyze the 
+quality of extracts and marketed herbal products (mono, as well as poly 
+constituents). Optimized extraction process could be utilized for upscaling 
+process development in preparation of enriched extracts from Withania somnifera, 
+crop improvement, bio-prospection studies and quality control.

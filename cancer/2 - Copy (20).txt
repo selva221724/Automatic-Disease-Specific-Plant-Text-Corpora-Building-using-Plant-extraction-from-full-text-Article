@@ -1,0 +1,21 @@
+In vitro immunostimulatory properties of Abrus lectins derived peptides in tumor 
+bearing mice.
+
+Bhutia SK(1), Mallick SK, Maiti TK.
+
+Author information:
+(1)Department of Biotechnology, Indian Institute of Technology, Kharagpur, West 
+Bengal, India.
+
+In vitro immunostimulatory effect of Abrus lectins derived peptide fractions 
+(AGP and ABP) was investigated in DL bearing mice. Both AGP and ABP were found 
+to activate splenocytes and induced production of cytokines like IL-2, IFN-gamma 
+and TNF-alpha indicating a Th1 type of immune response. Analysis of in vitro 
+treated splenocytes by flow cytometry revealed an increase in percentage of T 
+and B cell with high expression of activation markers (CD25(+) and CD71(+)). At 
+the same time, expression of co-stimulatory markers was significantly high 
+compared to tumor control. The tumor associated macrophages were able to 
+stimulate NO production, IL-1 secretion, increased phagocytosis and decreased 
+expression of mannose receptor. It was also observed that NK cell was activated 
+by AGP and ABP. These results suggest that both AGP and ABP act as 
+immunostimulants in vitro in DL bearing mice.

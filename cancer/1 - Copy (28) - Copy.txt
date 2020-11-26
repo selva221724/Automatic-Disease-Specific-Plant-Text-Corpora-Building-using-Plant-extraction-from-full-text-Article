@@ -1,0 +1,35 @@
+Evidence of vanillin binding to CAMKIV explains the anti-cancer mechanism in 
+human hepatic carcinoma and neuroblastoma cells.
+
+Naz H(1), Tarique M(2), Khan P(1), Luqman S(3), Ahamad S(4), Islam A(1), Ahmad 
+F(1), Hassan MI(5).
+
+Author information:
+(1)Centre for Interdisciplinary Research in Basic Sciences,Jamia Millia Islamia, 
+Jamia Nagar, New Delhi, 110025, India.
+(2)Department of Biochemistry, All India Institute of Medical Sciences, New 
+Delhi, 110029, India.
+(3)CSIR-Central Institute of Medicinal and Aromatic Plants, Lucknow, 226015, 
+India.
+(4)Department of Biotechnology, College of Engineering & Technology, IFTM 
+University, Lodhipur-Rajput, Delhi Road, Moradabad, India.
+(5)Centre for Interdisciplinary Research in Basic Sciences,Jamia Millia Islamia, 
+Jamia Nagar, New Delhi, 110025, India. mihassan@jmi.ac.in.
+
+Human calcium/calmodulin-dependent protein kinase IV (CAMKIV) is a member of 
+Ser/Thr kinase family, and is associated with different types of cancer and 
+neurodegenerative diseases. Vanillin is a natural compound, a primary component 
+of the extract of the vanilla bean which possesses varieties of pharmacological 
+features including anti-oxidant, anti-inflammatory, anti-bacterial and 
+anti-tumor. Here, we have investigated the binding mechanism and affinity of 
+vanillin to the CAMKIV which is being considered as a potential drug target for 
+cancer and neurodegenerative diseases. We found that vanillin binds strongly to 
+the active site cavity of CAMKIV and stabilized by a large number of 
+non-covalent interactions. We explored the utility of vanillin as anti-cancer 
+agent and found that it inhibits the proliferation of human hepatocyte carcinoma 
+(HepG2) and neuroblastoma (SH-SY5Y) cells in a dose-dependent manner. 
+Furthermore, vanillin treatment resulted into the significant reduction in the 
+mitochondrial membrane depolarization and ROS production that eventually leads 
+to apoptosis in HepG2 and SH-SY5Y cancer cells. These findings may offer a novel 
+therapeutic approach by targeting the CAMKIV using natural product and its 
+derivative with a minimal side effect.

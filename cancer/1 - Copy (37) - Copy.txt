@@ -1,0 +1,43 @@
+Tobacco-specific N-nitrosamines and Areca-derived N-nitrosamines: chemistry, 
+biochemistry, carcinogenicity, and relevance to humans.
+
+Hoffmann D(1), Brunnemann KD, Prokopczyk B, Djordjevic MV.
+
+Author information:
+(1)American Health Foundation, Valhalla, New York 10595.
+
+Nicotine and the minor tobacco alkaloids give rise to tobacco-specific 
+N-nitrosamines (TSNA) during tobacco processing and during smoking. 
+Chemical-analytical studies led to the identification of seven TSNA in smokeless 
+tobacco (< or = 25 micrograms/g) and in mainstream smoke of cigarettes (1.3 
+micrograms TSNA/cigarette). Indoor air polluted by tobacco smoke may contain up 
+to 24 pg/L of TSNA. In mice, rats, and hamsters, three TSNA, 
+N'-nitrosonornicotine (NNN), 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone 
+(NNK), and 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol (NNAL), are powerful 
+carcinogens; two TSNA are moderately active as carcinogens; and two TSNA appear 
+not to be carcinogenic. The TSNA are procarcinogens, agents that require 
+metabolic activation. The active forms of the carcinogenic TSNA react with 
+cellular components, including DNA, and with hemoglobin (Hb). The Hb adducts in 
+chewers and smokers serve as biomarkers for the uptake and metabolic activation 
+of carcinogenic TSNA and the urinary excretion of NNAL as free alcohol and as 
+glucuronide for the uptake of TSNA. The review presents evidence that strongly 
+supports the concept that TSNA contribute to the increased risk for cancer of 
+the upper digestive tract in tobacco chewers and for the increased risk of lung 
+cancer, especially pulmonary adenocarcinoma, in smokers. The high incidence of 
+cancer of the upper digestive tract especially among men on the Indian 
+subcontinent has been causally associated with chewing of betel quid mixed with 
+tobacco. In addition to the TSNA, the betel quid chewers are exposed to four 
+N-nitrosamines that are formed during chewing from the Areca alkaloids, two of 
+these N-nitrosamines are carcinogens. The article also reviews approaches toward 
+the reduction of the carcinogenic potency of smokeless tobacco, betel 
+quid-tobacco mixtures, and cigarette smoke. Although the safest way to reduce 
+the risk for tobacco-related cancers is to refrain from chewing and smoking, 
+modifications of smokeless tobacco and of cigarettes are indicated to lead to 
+less toxic products. Another more recent approach for reducing the carcinogenic 
+effect of tobacco products is the application of chemopreventive agents, 
+primarily of micronutrients. Future aspects in tobacco carcinogenesis, 
+especially as it relates to TSNA, are expected in the field of molecular 
+biochemistry and in biomarker studies, with the goal of identifying those 
+tobacco and betel quid chewers and tobacco smokers who are at especially high 
+risk for cancer.
+

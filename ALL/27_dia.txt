@@ -1,0 +1,29 @@
+Both experimental and clinical studies suggest that oxidative stress 
+plays a major role in the pathogenesis of both types of diabetes mellitus. This 
+oxidative stress leads to ß-cell destruction by apoptosis. Hence exploring 
+agents modulating oxidative stress is an effective strategy in the treatment of 
+both Type I and Type II diabetes. Plants are a major source of anti-oxidants and 
+exert protective effects against oxidative stress in biological systems. 
+Phyllanthus emblica, Curcuma longa and Tinospora cordifolia are three such 
+plants widely used in Ayurveda for their anti-hyperglycemic activity. 
+Additionally their anti-oxidant properties have been scientifically validated in 
+various experimental in vitro and in vivo models. Hence the present in vitro 
+study was planned to assess whether the anti-hyperglycemic effects of the 
+hydro-alcoholic extracts of Phyllanthus emblica (Pe) and Curcuma longa (Cl) and 
+aqueous extract of Tinospora cordifolia (Tc) are mediated through their 
+antioxidant and/or anti-apoptotic property in a streptozotocin induced stress 
+model.
+METHODS: RINm5F cell line was used as a model of pancreatic ß-cells against 
+stress induced by streptozotocin (2 mM). Non-toxic concentrations of the plant 
+extracts were identified using MTT assay. Lipid peroxidation through MDA 
+release, modulation of apoptosis and insulin release were the variables measured 
+to assess streptozotocin induced damage and protection afforded by the plant 
+extracts.
+RESULTS: All 3 plants extracts significantly inhibited MDA release from RIN 
+cells indicating protective effect against STZ induced oxidative damage. They 
+also exhibited a dose dependent anti-apoptotic effect as seen by a decrease in 
+the sub G0 population in response to STZ. None of the plant extracts affected 
+insulin secretion from the cells to a great extent.
+CONCLUSION: The present study thus demonstrated that the protective effect of 
+the selected medicinal plants against oxidative stress induced by STZ in vitro, 
+which was exerted through their anti-oxidant and anti-apoptotic actions.

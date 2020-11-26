@@ -1,0 +1,56 @@
+Liposomal Cytarabine as Cancer Therapy: From Chemistry to Medicine.
+
+Salehi B(1), Selamoglu Z(2), S Mileski K(3), Pezzani R(4)(5), Redaelli M(5)(6), 
+Cho WC(7), Kobarfard F(8)(9), Rajabi S(10), Martorell M(11)(12), Kumar P(13), 
+Martins N(14)(15), Subhra Santra T(16), Sharifi-Rad J(17).
+
+Author information:
+(1)Student Research Committee, School of Medicine, Bam University of Medical 
+Sciences, Bam 44340847, Iran.
+(2)Department of Medical Biology, Faculty of Medicine, Nigde Ömer Halisdemir 
+University, Campus, 51240 Nigde, Turkey.
+(3)Department of Morphology and Systematic of Plants, Institute of Botany and 
+Botanical Garden "Jevremovac," Faculty of Biology, University of Belgrade, 
+Belgrade 11000, Serbia.
+(4)O.U. Endocrinology, Department of Medicine (DIMED), University of Padova, via 
+Ospedale 105, 35128 Padova, Italy.
+(5)AIROB, Associazione Italiana per la Ricerca Oncologica di Base, 35128 Padova, 
+Italy.
+(6)Venetian Institute for Molecular Science and Experimental Technologies, 
+VIMSET. Pz Milani, 4 30010 Liettoli di Campolongo Maggiore, VE, Italy.
+(7)Department of Clinical Oncology, Queen Elizabeth Hospital, Hong Kong SAR, 
+China.
+(8)Phytochemistry Research Center, Shahid Beheshti University of Medical 
+Sciences, Tehran 1991953381, Iran.
+(9)Department of Medicinal Chemistry, School of Pharmacy, Shahid Beheshti 
+University of Medical Sciences, Tehran 11369, Iran.
+(10)Department of Clinical Biochemistry, School of Medicine, Shahid Beheshti 
+University of Medical Sciences, Tehran 23871, Iran.
+(11)Department of Nutrition and Dietetics, Faculty of Pharmacy, University of 
+Concepcion, Concepcion 4070386, Chile.
+(12)Universidad de Concepción, Unidad de Desarrollo Tecnológico, UDT, Concepcion 
+4070386, Chile.
+(13)Department of Forestry, North Eastern Regional Institute of Science and 
+Technology, (Deemed To Be University-MHRD), Nirjuli (Itanagar) 791109, India.
+(14)Faculty of Medicine, University of Porto, Alameda Prof. Hernâni Monteiro, 
+4200-319 Porto, Portugal.
+(15)Institute for Research and Innovation in Health (i3S), University of Porto, 
+4200-135 Porto, Portugal.
+(16)Department of Engineering Design, Indian Institute of Technology Madras, 
+Chennai 600036, India.
+(17)Zabol Medicinal Plants Research Center, Zabol University of Medical 
+Sciences, Zabol 61615-585, Iran.
+
+Cancer is the second leading cause of death worldwide. The main modality to 
+fight against cancer is surgery, radiotherapy, and chemotherapy, and more 
+recently targeted therapy, gene therapy and immunotherapy, which play important 
+roles in treating cancer patients. In the last decades, chemotherapy has been 
+well developed. Nonetheless, administration of the drug is not always 
+successful, as limited drug dosage can reach the tumor cells.. In this context, 
+the possibility to use an encapsulated anti-cancer drug may potentially solve 
+the problem. Liposomal cytarabine is a formulation with pronounced effectiveness 
+in lymphomatous meningitis and reduced cardiotoxicity if compared to liposomal 
+anthracyclines. Thus, the future liposomal cytarabine use could be extended to 
+other diseases given its reduction in cytotoxic side effects compared to the 
+free formulation. This review summarizes the chemistry and biology of liposomal 
+cytarabine, with exploration of its clinical implications.

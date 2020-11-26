@@ -1,0 +1,45 @@
+Pterospermum acerifolium (L.) wild bark extract induces anticarcinogenic effect 
+in human cancer cells through mitochondrial-mediated ROS generation.
+
+Tripathi SK(1), Biswal BK(2).
+
+Author information:
+(1)Cancer and Stem Cell Laboratory, Department of Life Science, National 
+Institute of Technology, Rourkela, Sundargarh, Odisha, 769008, India.
+(2)Cancer and Stem Cell Laboratory, Department of Life Science, National 
+Institute of Technology, Rourkela, Sundargarh, Odisha, 769008, India. 
+biswalb@nitrkl.ac.in.
+
+Plants have many medicinal properties including anticancer activity due to the 
+presence of several secondary metabolites. Current cancer treatment policies are 
+not much effective because of side effects and resistance development. 
+Therefore, the discovery of new phytotherapeutics with no or fewer side effects 
+is highly needed. Pterospermum acerifolium (L.) wild, an angiosperm has a broad 
+application in traditional Indian medicinal system including cancer treatment. 
+Despite, there is no study available on the cytotoxic and apoptotic effect of P. 
+acerifolium in human cancer cells. Exploring the medicinal properties of P. 
+acerifolium plant by its traditional use will be helpful towards developing 
+novel cancer therapeutics. Hence, we decided to demonstrate the 
+anti-carcinogenic property of P. acerifolium ethanolic bark extract against lung 
+(A549) and pancreatic (PANC-1) cancer cells. The cytotoxicity was demonstrated 
+by MTT assay, morphological changes, and scratch invasion assay. Flow cytometry, 
+fluorescence staining techniques, and cell cycle analysis were confirmed the 
+apoptotic property of P. acerifolium plant. The cell viability assay revealed 
+that P. acerifolium ethanolic bark extract significantly reduced the viability 
+of both A549 and PANC-1 cells. Moreover, PANC-1 cells showed more sensitivity 
+towards P. acerifolium ethanolic bark extract than A549 at higher 
+concentrations. Clear visualization of changes such as cytoplasmic condensation, 
+cellular morphology, cell shrinkage, and augmented number of dead cells in both 
+the cancer cells was observed after treatment. Scratch and invasion assay showed 
+that cell migration and invasion rate of both the cancer cells were 
+significantly reduced. Fluorescence microscopic studies using acridine 
+orange/ethidium bromide and DAPI (4', 6-diamidino-2-phenylindole) staining 
+showed early and late apoptotic symptoms after treatment with bark extract. 
+Rhodamine-123 and DCFH-DA staining analysis by fluorescence and flow cytometry 
+showed that bark extract depolarized the mitochondria membrane potential and 
+induced reactive oxygen species (ROS) generation. Cell cycle analysis through 
+flow cytometry using propidium iodide stain showed that P. acerifolium bark 
+extract arrested A549 and PANC-1 cells in sub-G1 phase stated early apoptosis. 
+These findings collectively point to the fact that P. acerifolium bark extract 
+induced cell cytotoxicity in lung and pancreatic cancer cells by modulating 
+mitochondrial-mediated ROS generation, and cell cycle checkpoints.

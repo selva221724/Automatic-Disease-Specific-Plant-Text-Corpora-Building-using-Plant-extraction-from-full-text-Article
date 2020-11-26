@@ -1,0 +1,48 @@
+Rapid Screening of Forskolin-Type Diterpenoids of Blumea aromatica DC Using 
+Ultra-High-Performance Liquid Chromatography Tandem Quadrupole Time-of-Flight 
+Mass Spectrometry Based on the Mass Defect Filtering Approach.
+
+He L(1), Zhang Z(2), Yao C(1), Miao J(1), Yan B(1), Wu L(1), Pan L(1), Song 
+Z(3), Wei S(4).
+
+Author information:
+(1)National Engineering Institute for the Research and Development of Endangered 
+Medicinal Resources in Southwest China, Guangxi Botanical Garden of Medicinal 
+Plants, Nanning 530023, China.
+(2)Institute of Qinghai-Tibetan Plateau, Southwest University for Nationalities, 
+Chengdu 610041, Sichuan Province, China.
+(3)National Engineering Institute for the Research and Development of Endangered 
+Medicinal Resources in Southwest China, Guangxi Botanical Garden of Medicinal 
+Plants, Nanning 530023, China. songzj430@aliyun.com.
+(4)National Engineering Institute for the Research and Development of Endangered 
+Medicinal Resources in Southwest China, Guangxi Botanical Garden of Medicinal 
+Plants, Nanning 530023, China. weishugen2@163.com.
+
+The discovery of new active compounds of natural products tends to be 
+increasingly more challenging due to chemical complexity and unpredictable 
+matrices. Forskolin is an active natural labdane-type diterpenoid ingredient 
+widely used worldwide for the treatment of glaucoma, heart failure, 
+hypertension, diabetes, and asthma, and is expected to be a promising 
+anticancer, anti-inflammation, and anti-HIV agent. In recent years, demand for 
+forskolin in the medicine market has increased dramatically. However, natural 
+forskolin originates exclusively from traditional Indian herb medicine Coleus 
+forskohlii (Willd.) Briq. In a previous study, we isolated a series of 
+diterpenoids including an 8,13-epoxy-14ene labdane carbon skeleton from Blumea 
+aromatica DC. In order to identify alternative plant resources, a novel and 
+effective strategy was proposed for the screening of potential forskolin-type 
+diterpenoids (FSKD) compounds obtained from B. aromatica, using the mass defect 
+filtering (MDF) strategy via ultra-high-performance liquid chromatography tandem 
+quadrupole time-of-flight mass spectrometry (UHPLC-QTOF/MS) approach. Within a 
+narrow, well-defined mass defect range, the strategy developed could 
+significantly improve the detection efficiency of selected FSKD compounds by 
+filtering out certain major or moderate interference compounds. Additionally, 
+the MS/MS cleavage behavior and the characteristic diagnostic ions of the FSKD 
+compounds were proposed to be used in aiding structural identification of the 
+filtration compounds. As a result, a total of 38 FSKD of B. aromatica were 
+filtered out and tentatively identified. To the best of our knowledge, it was 
+the first time that these forskolin-type diterpenoids were identified in B. 
+aromatica, which significantly expands our understanding of the chemical 
+constituents of Blumea species, and allows B. aromatica to be used as a 
+potential alternative plant resource that contains these forskolin-type active 
+compounds. The strategy proposed was proven efficient and reliable for the 
+discovery of novel compounds of herbal extracts.

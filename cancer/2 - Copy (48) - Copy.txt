@@ -1,0 +1,24 @@
+Augmentation of murine natural killer cell and antibody dependent cellular 
+cytotoxicity activities by Phyllanthus emblica, a new immunomodulator.
+
+Suresh K(1), Vasudevan DM.
+
+Author information:
+(1)Department of Biochemistry, Indian Institute of Science, Bangalore.
+
+When administered orally, Phyllanthus emblica, an excellent source of vitamin C 
+(ascorbate), has been found to enhance natural killer (NK) cell activity and 
+antibody dependent cellular cytotoxicity (ADCC) in syngeneic BALB/c mice, 
+bearing Dalton's lymphoma ascites (DLA) tumor. P. emblica elicited a 2-fold 
+increase in splenic NK cell activity on day 3 post tumor inoculation. Enhanced 
+activity was highly significant on days 3, 5, 7 and 9 after tumor inoculation 
+with respect to the untreated tumor bearing control. A significant enhancement 
+in ADCC was documented on days 3, 7, 9, 11 and 13 in drug treated mice as 
+compared to the control. An increase in life span (ILS) of 35% was recorded in 
+tumor bearing mice treated with P. emblica. This increased survival was 
+completely abrogated when NK cell and killer (K) cell activities were depleted 
+either by cyclophosphamide or anti-asialo-GM1 antibody treatment. These results 
+indicate: (a) an absolute requirement for a functional NK cell or K cell 
+population in order that P. emblica can exert its effect on tumor bearing 
+animals, and (b) the antitumor activity of P. emblica is mediated primarily 
+through the ability of the drug to augment natural cell mediated cytotoxicity.

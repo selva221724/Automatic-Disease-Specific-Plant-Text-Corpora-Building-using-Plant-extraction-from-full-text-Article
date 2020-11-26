@@ -1,0 +1,65 @@
+Genoproteomics-assisted improvement of Andrographis paniculata: toward a 
+promising molecular and conventional breeding platform for autogamous plants 
+affecting the pharmaceutical industry.
+
+Valdiani A(1), Talei D(2), Lattoo SK(3), Ortiz R(4), Rasmussen SK(5), Batley 
+J(6), Rafii MY(7), Maziah M(1)(7)(8), Sabu KK(9), Abiri R(1), Sakuanrungsirikul 
+S(10), Tan SG(11).
+
+Author information:
+(1)a Department of Biochemistry, Faculty of Biotechnology and Biomolecular 
+Sciences , Universiti Putra Malaysia , Selangor , Malaysia.
+(2)b Medicinal Plants Research Center , Shahed University , Tehran , Iran.
+(3)c Plant Biotechnology Division , CSIR - Indian Institute of Integrative 
+Medicine , Jammu , India.
+(4)d Department of Plant Breeding , Swedish University of Agricultural Sciences 
+(SLU) , Alnarp , Sweden.
+(5)e Department of Plant and Environmental Science, Faculty of Sciences , 
+University of Copenhagen , Copenhagen , Denmark.
+(6)f School of Plant Biology , University of Western Australia , Crawley , WA , 
+Australia.
+(7)g Institute of Tropical Agriculture , Universiti Putra Malaysia , Selangor , 
+DE , Malaysia.
+(8)h Institute of Bioscience , Universiti Putra Malaysia , Selangor , Malaysia.
+(9)i Jawaharlal Nehru Tropical Botanic Garden and Research Institute , Palode, 
+Thiruvananthapuram , India.
+(10)j Khon Kaen Field Crops Research Center, Field and Energy Renewable Crops 
+Research, Institute , Department of Agriculture, Ministry of Agriculture and 
+Cooperatives , Khon Kaen , Thailand.
+(11)k Department of Cell and Molecular Biology, Faculty of Biotechnology and 
+Biomolecular Sciences , Universiti Putra Malaysia , Selangor , Malaysia.
+
+Andrographis paniculata (Burm. f.) Wall. ex Nees. (AP) is a hermaphroditic, 
+self-compatible, and habitual inbreeding plant. Its main bioactive component is 
+andrographolide, which is capable of inducing autophagic cell death in some 
+human cancer cells and helps fight HIV/AIDS. Increasing the andrographolide 
+content by investigating the genetic mechanisms controlling its biosynthesis in 
+order to improve and develop high-yielding cultivars are the main breeding 
+targets for AP. However, there might exist some limitations or barriers for 
+crossability within AP accessions. Recently, this problem was addressed in AP by 
+using a combination of crossbreeding and biotechnology-aided genetic methods. 
+This review emphasizes that development of a breeding platform in a 
+hard-to-breed plant, such as AP, requires the involvement of a broad range of 
+methods from classical genetics to molecular breeding. To this end, a 
+phenological stage (for example, flowering and stigma development) can be 
+simplified to a quantitative morphological trait (for example, bud or stigma 
+length) to be used as an index to express the highest level of receptivity in 
+order to manage outcrossing. The outcomes of the basic crossability research can 
+be then employed in diallel mating and crossbreeding. This review explains how 
+genomic data could produce useful information regarding genetic distance and its 
+influence on the crossability of AP accessions. Our review indicates that 
+co-dominant DNA markers, such as microsatellites, are also capable of resolving 
+the evolutionary pathway and cryptic features of plant populations and such 
+information can be used to select the best breeding strategy. This review also 
+highlights the importance of proteomic analysis as a breeding tool. In this 
+regard, protein diversification, as well as the impact of normal and 
+stress-responsive proteins on morphometric and physiological behaviors, could be 
+used in breeding programs. These findings have immense potential for improving 
+plant production and, therefore, can be regarded as prospective breeding 
+platforms for medicinal plants that have an autogamous mode of reproduction. 
+Finally, this review suggests that novel site-directed genome editing approaches 
+such as TALENs (Transcription Activator-Like Effector Nucleases) and CRISPR 
+(clustered regularly interspaced short palindromic repeats)/Cas9 
+(CRISPR-associated protein-9 nuclease) systems together with other new plant 
+breeding technologies (NPBT) should simultaneously be taken into consideration 
+for improvement of pharmaceutical plants.

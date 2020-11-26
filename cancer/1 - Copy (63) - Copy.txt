@@ -1,0 +1,39 @@
+Extract from Aphloia theiformis, an edible indigenous plant from Reunion Island, 
+impairs Zika virus attachment to the host cell surface.
+
+Clain E(1), Sinigaglia L(2), Koishi AC(3), Gorgette O(4), Gadea G(1), 
+Viranaicken W(1), Krejbich-Trotot P(1), Mavingui P(1), Desprès P(1), Nunes 
+Duarte Dos Santos C(3), Guiraud P(1), Jouvenet N(2), El Kalamouni C(5).
+
+Author information:
+(1)Université de La Réunion, UM134 Processus Infectieux Insulaire Tropical 
+(PIMIT), INSERM U1187, CNRS UMR 9192, IRD UMR 249, Plateforme Technologique 
+CYROI, 97490, Sainte, Clotilde, France.
+(2)UMR CNRS 3569, Viral Genomics and Vaccination Unit, Pasteur Institute, 75724, 
+Paris, France.
+(3)Laboratorio de Virologia Molecular, Instituto Carlos Chagas, ICC/FIOCRUZ/PR, 
+Curitiba, Parana, Brazil.
+(4)Ultrastructural BioImaging (UTechsUBI), Pasteur Institute, 75724, Paris, 
+France.
+(5)Université de La Réunion, UM134 Processus Infectieux Insulaire Tropical 
+(PIMIT), INSERM U1187, CNRS UMR 9192, IRD UMR 249, Plateforme Technologique 
+CYROI, 97490, Sainte, Clotilde, France. chaker.el-kalamouni@univ-reunion.fr.
+
+The mosquito-borne Zika virus (ZIKV) belongs to the flavivirus genus of the 
+Flaviviridae family. Contemporary epidemic strains of ZIKV are associated with 
+congenital malformations in infants, including microcephaly, as well as 
+Guillain-Barré syndrome in adults. A risk of human-to-human transmission of ZIKV 
+is also well documented. A worldwide research effort has been undertaken to 
+identify safe and effective strategies to prevent or treat ZIKV infection. We 
+show here that extract from Aphloia theiformis, an edible endemic plant from 
+Indian Ocean islands, exerts a potent antiviral effect against ZIKV strains of 
+African and Asian lineages, including epidemic strains. The antiviral effect of 
+A. theiformis extract was extended to clinical isolates of dengue virus (DENV) 
+of the four serotypes in human hepatocytes. A. theiformis inhibited virus entry 
+in host cells by acting directly on viral particles, thus impairing their 
+attachment to the cell surface. Electron microscopic observations revealed that 
+organization of ZIKV particles was severely affected by A. theiformis. We 
+propose a model of antiviral action for A. theiformis against flaviviruses that 
+highlights the potential of medicinal plants as promising sources of 
+naturally-derived antiviral compounds to prevent ZIKV and DENV infections.
+

@@ -1,0 +1,32 @@
+Inhibition of benzopyrene-induced forestomach tumors by field bean protease 
+inhibitor(s).
+
+Fernandes AO(1), Banerji AP.
+
+Author information:
+(1)Biological Chemistry Division, Cancer Research Institute, Parel, Bombay, 
+India.
+
+Protease inhibitors (PIs), particularly the soybean-derived Bowman-Birk 
+inhibitor, have proved to be powerful blockers of carcinogenesis in many in 
+vitro and animal model systems. However, so far an ability of PIs to suppress 
+gastric carcinogenesis has not been demonstrated, because of the anticipated 
+'hostile' acidic gastric environment for the PI to exert its action. We 
+therefore examined the ability of a purified PI from the Indian legume the field 
+bean (FBPI), when administered by gavage, to subdue benzopyrene (BP)-induced 
+neoplasia of the forestomach of mice. Forestomach tumors were produced in female 
+Swiss albino mice by oral administration of BP at a dose of 1 mg twice weekly 
+for 4 weeks. Groups of mice were treated per os with an aqueous solution of FBPI 
+for 3 months or more at a dose of 20 mg/kg once daily, six times a week, either 
+from the initiation of carcinogenesis or after completion of the carcinogen 
+treatment. Another group was treated likewise with autoclaved inactive FBPI. 
+Mice of both the FBPI-treated groups showed statistically significant (P < 
+0.001) reductions in the multiplicity of gastric tumors, with the tumor 
+incidence being unaffected. However, the suppression of tumor multiplicity was 
+appreciably (P < 0.01) more in the group that received FBPI treatment 
+concomitantly with the carcinogen. The mice that were treated with 
+heat-inactivated FBPI showed similar tumor multiplicity to the BP-treated group, 
+indicating that the oncopreventive activity of FBPI is related to its protease 
+inhibitory capacity. These observations point to the potential of PIs as 
+effective chemoprotectors against gastric cancer in animals and, possibly, in 
+humans as well.

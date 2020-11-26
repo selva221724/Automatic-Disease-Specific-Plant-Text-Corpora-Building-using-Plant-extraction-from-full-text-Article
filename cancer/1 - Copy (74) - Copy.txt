@@ -1,0 +1,20 @@
+Withaferin A: a new radiosensitizer from the Indian medicinal plant Withania 
+somnifera.
+
+Devi PU(1), Akagi K, Ostapenko V, Tanaka Y, Sugahara T.
+
+Author information:
+(1)Department of Radiobiology, Kasturba Medical College, Manipal, India.
+
+Withaferin A, a steroidal lactone isolated from the roots of the Indian 
+medicinal plant Withania somnifera, reduced survival of V79 cells in a 
+dose-dependent manner. LD50 for survival was 16 microM. One-hour treatment with 
+a non-toxic dose of 2.1 microM before irradiation significantly enhanced cell 
+killing, giving a sensitizer enhancement ratio (SER) of 1.5 for 37% survival and 
+1.4 for 10% survival. SER increased with drug dose, but at higher doses the 
+increased lethality appears to be due to two effects-- drug toxicity and 
+radiosensitization. The drug induced a G2/M block, with a maximum accumulation 
+of cells in G2-M phase at 4 h after treatment with 10.5 microM withaferin A in 1 
+h. The applicability of this drug as a radiosensitizer in cancer therapy needs 
+to be explored.
+

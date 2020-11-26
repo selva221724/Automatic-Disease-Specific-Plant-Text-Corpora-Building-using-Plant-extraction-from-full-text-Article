@@ -1,0 +1,30 @@
+Antineoplastic agents. 522. Hernandia peltata (Malaysia) and Hernandia 
+nymphaeifolia (Republic of Maldives).
+
+Pettit GR(1), Meng Y, Gearing RP, Herald DL, Pettit RK, Doubek DL, Chapuis JC, 
+Tackett LP.
+
+Author information:
+(1)Cancer Research Institute and Department of Chemistry and Biochemistry, 
+Arizona State University, Tempe, Arizona 85287-2404, USA. bpettit@asu.edu
+
+Bioassay (P388 lymphocytic leukemia cell line and human tumor cell lines)-guided 
+separation of the extracts prepared from the tropical and coastal trees 
+Hernandia peltata (Malaysia) and Hernandianymphaeifolia (Republic of Maldives) 
+led to the isolation of a new lignan designated as hernanol (1) and 12 
+previously known lignans: (-)-deoxypodophyllotoxin (2), deoxypicropodophyllin 
+(3), (+)-epiaschantin (4), (+)-epieudesmin (5), praderin (6), 5'-methoxyyatein 
+(7), podorhizol (8), deoxypodorhizone (9), bursehernin (10), kusunokinol (11), 
+clusin (12), and (-)-maculatin (13). The oxidative cyclization (with VOF(3)) of 
+lignans 8, 9, and 10 resulted in a new and unusual benzopyran (14), isostegane 
+(15), and a new dibenzocyclooctadiene lactone (16), respectively. The structure 
+and relative stereochemistry of hernanol (1) and lignans 3, 7, 8, 9, 10, 11, and 
+12 were determined by 1D and 2DNMR and HRMS analyses. The structures and 
+absolute stereochemistry of structures 2, 4, 5, 6, 13, 14, 15, and 16 were 
+unequivocally determined by single-crystal X-ray diffraction analyses. 
+Evaluation against the murine P388 lymphocytic leukemia cell line and human 
+tumor cell lines showed podophyllotoxin derivatives 2 and 3 to be strong cancer 
+cell line growth inhibitors and substances 4, 5, 8, and 15 to have marginal 
+cancer cell line inhibitory activities. Seven of the lignans and one of the 
+synthetic modifications (14) inhibited growth of the pathogenic bacterium 
+Neisseria gonorrhoeae

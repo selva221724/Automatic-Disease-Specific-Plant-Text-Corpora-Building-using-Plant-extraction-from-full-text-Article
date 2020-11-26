@@ -1,0 +1,43 @@
+The antioxidant and antiproliferative activities of methanolic extracts from 
+Njavara rice bran.
+
+Rao AS(1), Reddy SG, Babu PP, Reddy AR.
+
+Author information:
+(1)Department of Plant Sciences, School of Life Sciences, University of 
+Hyderabad, Hyderabad 500 046, India. arrsl@uohyd.ernet.in
+
+BACKGROUND: Free radical-induced oxidative stress is the root cause for many 
+human diseases. Naturally occurring antioxidant supplements from plants are 
+vital to counter the oxidative damage in cells. The main objective of the 
+present study was to characterize the antioxidant and antiproliferative 
+potential of rice bran extracted from an important Indian rice variety, Njavara 
+and to compare the same with two commercially available basmati rice varieties: 
+Vasumathi, Yamini and a non medicinal variety, Jyothi.
+METHODS: Methanolic extracts of rice bran from four varieties; Vasumathi, 
+Yamini, Jyothi and Njavara were used to study their total phenolic and flavonoid 
+contents, in vitro antioxidant activities including total antioxidant activity, 
+scavenging of nitric oxide and 1,1-Diphenyl-2-picrylhydrazyl (DPPH) radical, 
+reducing power and cytotoxic activity in C6 glioma cells. Correlation 
+coefficient and regression analysis were done by using Sigmastat version 3.1 and 
+Stata statistical package respectively.
+RESULTS: Rice bran methanolic extract from Njavara showed the highest 
+antioxidant and cell cytotoxic properties compared to the other three rice 
+varieties. IC50 values for scavenging DPPH and nitric oxide were in the range of 
+30.85-87.72 microg/ml and 52.25-107.18 microg/ml respectively. Total antioxidant 
+activity and reducing power were increased with increasing amounts of the 
+extract. Total phenolic and flavonoid contents were in the range of 3.2-12.4 mg 
+gallic acid-equivalent (GAE)/g bran and 1.68-8.5 mg quercetin-equivalent (QEE)/g 
+bran respectively. IC50 values of cytotoxic assay (MTT assay) were 17.53-57.78 
+microg/ml. Correlation coefficient and regression analysis of phenolic content 
+with DPPH and NO scavenging, MTT (-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl 
+tetrazolium bromide) assay, total antioxidant assay and reducing power showed a 
+highly significant correlation coefficient values (96-99%) and regression values 
+(91-98%).
+CONCLUSION: The results of the present study show that the crude methanolic 
+extract from Njavara rice bran contains significantly high polyphenolic 
+compounds with superior antioxidant activity as evidenced by scavenging of free 
+radicals including DPPH and NO. Njavara extracts also showed highest reducing 
+power activity, anti-proliferative property in C6 glioma cells. In conclusion, 
+it is conceivable that the Njavara rice variety could be exploited as one of the 
+potential sources for plant--based pharmaceutical products.

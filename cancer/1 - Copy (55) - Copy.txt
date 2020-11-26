@@ -1,0 +1,30 @@
+In silico assay development for screening of tetracyclic triterpenoids as 
+anticancer agents against human breast cancer cell line MCF7.
+
+Prakash O(1), Ahmad A(2), Tripathi VK(3), Tandon S(2), Pant AB(3), Khan F(1).
+
+Author information:
+(1)Metabolic and Structural Biology Department, CSIR-Central Institute of 
+Medicinal and Aromatic Plants, Lucknow, Uttar Pradesh, India.
+(2)Process Chemistry & Chemical Engineering Department, CSIR-Central Institute 
+of Medicinal and Aromatic Plants, Lucknow, Uttar Pradesh, India.
+(3)In-vitro Toxicology Division, CSIR-Indian Institute of Toxicology Research, 
+Lucknow, Uttar Pradesh, India.
+
+Experimental activity of a compound on cancer cell line/target is mostly 
+analyzed in the form of percentage inhibition at different concentration 
+gradient and time of incubation. In this study a statistical model has been 
+developed referred as in silico assay using support vector regression model, 
+which can act with change in concentration gradient and time of incubation. This 
+model is a function of concentration gradient, treatment hour and independent 
+components; which calculate the percentage inhibition in combination of above 
+three components. This model is designed to screen tetracyclic triterpenoids 
+active against human breast cancer cell line MCF7. The model has been 
+statistically validated, checked for applicability domain and predicted results 
+were reconfirmed by MTT assay, for example Oenotheranstrol derivatives, OenA & 
+B. Computational SAR, target and docking studies were performed to understand 
+the cytotoxic mechanism of action of Oenotheranstrol compounds. The proposed in 
+silico assay model will work for specific chemical family for which it will be 
+optimized. This model can be used to analyze growth kinetics pattern on 
+different human cancer cell lines for designed compounds.
+

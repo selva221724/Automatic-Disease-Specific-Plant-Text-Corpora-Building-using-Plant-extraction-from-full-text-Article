@@ -1,0 +1,30 @@
+A novel high throughput screening assay for HCV NS3 serine protease inhibitors.
+
+Berdichevsky Y(1), Zemel R, Bachmatov L, Abramovich A, Koren R, Sathiyamoorthy 
+P, Golan-Goldhirsh A, Tur-Kaspa R, Benhar I.
+
+Author information:
+(1)Department of Molecular Microbiology and Biotechnology, The George S. Wise 
+Faculty of Life Sciences, Green Building, Room 202, Tel-Aviv University, 69978, 
+Ramat Aviv, Israel.
+
+Hepatitis C virus (HCV) infection is a major worldwide health problem, causing 
+chronic hepatitis, liver cirrhosis and primary liver cancer (Hepatocellular 
+carcinoma). HCV encodes a precursor polyprotein that is enzymatically cleaved to 
+release the individual viral proteins. The viral non-structural proteins are 
+cleaved by the HCV NS3 serine protease. NS3 is regarded currently as a potential 
+target for anti-viral drugs thus specific inhibitors of its enzymatic activity 
+should be of importance. A prime requisite for detailed biochemical studies of 
+the protease and its potential inhibitors is the availability of a rapid 
+reliable in vitro assay of enzyme activity. A novel assay for measurement of HCV 
+NS3 serine protease activity was developed for screening of HCV NS3 serine 
+protease potential inhibitors. Recombinant NS3 serine protease was isolated and 
+purified, and a fluorometric assay for NS3 proteolytic activity was developed. 
+As an NS3 substrate we engineered a recombinant fusion protein where a green 
+fluorescent protein is linked to a cellulose-binding domain via the NS5A/B site 
+that is cleavable by NS3. Cleavage of this substrate by NS3 results in emission 
+of fluorescent light that is easily detected and quantitated by fluorometry. 
+Using our system we identified NS3 serine protease inhibitors from extracts 
+obtained from natural Indian Siddha medicinal plants. Our unique fluorometric 
+assay is very sensitive and has a high throughput capacity making it suitable 
+for screening of potential NS3 serine protease inhibitors.

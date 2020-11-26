@@ -1,0 +1,41 @@
+Symplocos cochinchinensis enhances insulin sensitivity via the down regulation 
+of lipogenesis and insulin resistance in high energy diet rat model.
+
+Antu KA(1), Riya MP(1), Nair A(1), Mishra A(2), Srivastava AK(2), Raghu KG(3).
+
+Author information:
+(1)Agroprocessing and Natural Products Division, CSIR - National Institute for 
+Interdisciplinary Science and Technology(NIIST), Thiruvananthapuram 695019, 
+Kerala, India.
+(2)Division of Biochemistry, CSIR - Central Drug Research Institute(CDRI), 
+Sector 10, Janakipuram Extension, Sitapur Road, Lucknow 226031, Uttar Pradesh, 
+India.
+(3)Agroprocessing and Natural Products Division, CSIR - National Institute for 
+Interdisciplinary Science and Technology(NIIST), Thiruvananthapuram 695019, 
+Kerala, India. Electronic address: raghukgopal@niist.res.in.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: This plant has been utilized in Indian system of 
+medicine for treatment of diabetes. This is clearly evident from the composition 
+of Ayurvedic preparation for diabetes 'Nisakathakadi Kashayam' where this is one 
+of the main ingredients of this preparation AIM OF THE STUDY: The study aims in 
+elucidating the molecular mechanisms underlying the insulin sensitizing effects 
+of Symplocos cochinchinensis ethanol extract (SCE) using a high fructose and 
+saturated fat (HFS) fed insulin resistant rat model.
+MATERIALS AND METHODS: Experimental groups consisted of normal diet (ND), ND+SCE 
+500mg/kg bwd, HFS+vehicle, HFS+metformin 100mg/kg bwd, HFS+SCE 250/500mg/kg bwd. 
+Initially the animals were kept under HFS diet for 8 weeks, and at the end of 8 
+week period, animals were found to develop insulin resistance and dyslipidemia. 
+Post-administration of SCE, metformin or vehicle were carried out for 3 weeks. 
+Gene and protein expressions relevant to insulin signalling pathway were 
+analysed.
+RESULTS: HFS significantly altered the normal physiology of animals via proteins 
+and genes relevant to metabolism like stearoyl-CoA desaturase (SCD1), sterol 
+regulatory element binding protein 1 (SREBP-1c), fatty acid synthase (FAS), 
+glucose 6 phosphatase (G6Pase), phosphoenol pyruvate carboxykinase (PEPCK), 
+glucose transporter 2 (GLUT2), protein tyrosine phosphatse 1B (PTP1B), 
+peroxisome proliferator activated receptor alpha (PPAR alpha), sirtuin 1 (SIRT1) 
+and glucokinase. SCE administration attenuates the insulin resistance in HFS rat 
+by the down regulation of SCD1 gene expression that modulates SREBP-1c dependent 
+and independent hepatic lipid accumulation.
+CONCLUSION: SCE enhances insulin sensitivity via the down regulation of 
+lipogenesis and insulin resistance in HFS rat model.

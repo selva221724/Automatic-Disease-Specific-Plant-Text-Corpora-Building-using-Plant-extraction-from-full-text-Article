@@ -1,0 +1,49 @@
+Sameerpannag Ras Mixture (SRM) improved neurobehavioral deficits following acute 
+ischemic stroke by attenuating neuroinflammatory response.
+
+Jhelum P(1), Wahul AB(1), Kamle A(2), Kumawat S(2), Kumar A(2), Bhutani KK(3), 
+Tripathi SM(4), Chakravarty S(5).
+
+Author information:
+(1)Chemical Biology, CSIR - Indian Institute of Chemical Technology, Tarnaka, 
+Uppal Road, Hyderabad 500007, India.
+(2)CSIR - Centre for Cellular and Molecular Biology, Habsiguda, Uppal Road, 
+Hyderabad 500007, India.
+(3)Department of Pharmaceuticals, National Institute of Pharmaceutical Education 
+and Research (NIPER), Mohali, Chandigarh 500037, India.
+(4)Department of Pharmaceuticals, National Institute of Pharmaceutical Education 
+and Research (NIPER), Mohali, Chandigarh 500037, India. Electronic address: 
+drsmtripathi5@gmail.com.
+(5)Chemical Biology, CSIR - Indian Institute of Chemical Technology, Tarnaka, 
+Uppal Road, Hyderabad 500007, India. Electronic address: sumana98@gmail.com.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Cerebral ischemic stroke is one of the leading 
+causes of death and long-term disability worldwide. Unfortunately, due to the 
+failure of most of drugs in clinical trials recently, attentions have moved 
+towards the traditional system of medicines including Ayurveda. In Ayurveda, 
+Sameerpannag Ras (SR) is a mineral and metallic origin based formulation which 
+has been used for the treatment of arthritis and chronic systematic inflammatory 
+disorder. The current study was designed to investigate the neuroprotective 
+effects of Sameerpannag Ras Mixture (SRM), on the neurobehavioral dysfunction 
+and associated neuroinflammation, induced by transient Internal Carotid Artery 
+Occlusion (ICAO) in mice model.
+MATERIALS AND METHODS: In the present study, mice were treated with Sameerpannag 
+Ras Mixture (SRM) at the dose of 40mg/kg body weight by oral gavages for 3 and 
+7days respectively, twice a day, after the induction of ICAO for 90min followed 
+by reperfusion. The efficacy of SRM was examined by scoring neurological 
+behavioral deficit using the standard neurological deficit score (NDS), grip 
+strength and rotarod performance tests at different time intervals of post-ICAO.
+RESULTS: Post-ischemic treatment with Sameerpannag Ras Mixture (SRM) at 40mg/kg 
+significantly reduced Neurological Deficit Score and improved the motor 
+coordination at different time intervals post-ICAO. The analysis of RT-qPCR data 
+showed that transient cerebral ischemia could induce the inflammatory response 
+genes in the affected striatal region of ICAO group, as compared to sham group, 
+on day3 and day7 post-ICAO. Interestingly, SRM treatment showed marked 
+improvement in the ischemia-induced neurobehavioral deficits by attenuating 
+ischemia-induced neuroinflammatory response at both gene and protein level.
+CONCLUSION: The present study suggests that Sameerpannag Ras Mixture (SRM) 
+treatment ameliorates behavioral outcomes after mild ischemia through the 
+suppression of a number of inflammatory response genes involved in neuronal 
+damage. This is the first report of the molecular mechanism underlying the 
+significant neuroprotective action of the Ayurvedic drug, Sameerpannag Ras 
+Mixture (SRM), using a mild stroke in mice model.

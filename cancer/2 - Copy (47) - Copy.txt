@@ -1,0 +1,33 @@
+Correlation between p53 gene mutations and circulating antibodies in betel- and 
+tobacco-consuming North Indian population.
+
+Ralhan R(1), Agarwal S, Nath N, Mathur M, Wasylyk B, Srivastava A.
+
+Author information:
+(1)Department of Biochemistry, All India Institute of Medical Sciences, Ansari 
+Nagar, 11029, New Delhi, India. rralham@medinst.ernet.in
+
+Alterations in p53 tumour suppressor gene and its expression may be implicated 
+in the pathogenesis of betel- and tobacco-related oral cancer. There is wide 
+regional variation in betel- and tobacco-consuming habits in different parts of 
+the Indian subcontinent. The purpose of this study was to determine the 
+correlations between p53 gene mutations, protein accumulation and serum 
+antibodies in oral precancer and cancer. We analysed 30 potentially malignant 
+oral lesions (leukoplakia) and 30 oral squamous cell carcinomas (SCCs) from 
+northern India because the betel quid-consuming habits are different from those 
+prevalent in other regions of India. p53 mutations were analysed by polymerase 
+chain reaction amplification of genomic DNA and direct sequencing, p53 protein 
+accumulation by immunohistochemical analysis and circulating p53 antibodies by 
+ELISA. p53 gene mutations, analysed within exons 5-9, were observed in five out 
+of 30 (17%) potentially malignant oral lesions and seven out of 30 (23%) oral 
+SCCs. All the mutations were base substitution mutations. Three missense and two 
+nonsense mutations were observed in potentially malignant oral lesions, while 
+six missense and one nonsense mutations were identified in oral SCCs. The 
+probable hot spots for the mutations were identified at codons 126, 136 and 174, 
+which have not been observed thus far. A good correlation was observed between 
+p53 missense mutation, p53 antibodies and p53 protein accumulation in matched 
+potentially malignant and malignant oral lesions. All the potentially malignant 
+and cancerous lesions harbouring missense mutations showed accumulation of p53 
+protein and the majority of these patients showed circulating p53 antibodies 
+suggesting that serological detection of p53 antibodies may serve as a surrogate 
+marker for p53 alterations in oral lesions.

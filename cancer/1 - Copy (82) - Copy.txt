@@ -1,0 +1,38 @@
+Drug leads from the Kallawaya herbalists of Bolivia. 1. Background, rationale, 
+protocol and anti-HIV activity.
+
+Abdel-Malek S(1), Bastien JW, Mahler WF, Jia Q, Reinecke MG, Robinson WE Jr, Shu 
+Y, Zalles-Asin J.
+
+Author information:
+(1)Department of Chemistry, Texas Christian University (TCU), Fort Worth 76129, 
+USA.
+
+Aqueous, organic and alcoholic extracts of over 100 samples of 60 species of 
+Kallawaya medicinal herbs representing 30 plant families were assayed to compare 
+their toxicity and ability to protect MT-2 T-lymphoblastoid cells from the 
+cytopathic effect of human immunodeficiency virus (HIV). The results are 
+reported as a therapeutic index (TI) which was > 25 for eighteen species, 
+including seven > 50 and one > 100. The anti-HIV activity resided primarily in 
+the aqueous rather than in the organic extracts and was concentrated in plants 
+used in ethnomedicine to treat lung and liver diseases.
+
+PIP: Plants are a rich source of anti-viral substances. The National Cancer 
+Institute therefore annually screens about 1500 species from Africa, Southeast 
+Asia, and South and Central America, but not Bolivia, for anti-HIV activity. 
+Several unique compounds with anti-HIV activity have emerged from the program. 
+The Kallawaya Indians of Bolivia follow a medical tradition from the Tiahuanaco 
+(400-1145), Mollo (1145-1435), Inca (1438-1532), Spanish (1532-1825), and 
+Bolivian Republic (from 1825) which is only recently starting to be reported. 
+They use approximately 900 of the more than 2000 medicinal plants found across 
+Bolivia. Aqueous, organic, and alcoholic extracts of more than 100 samples of 60 
+species of Kallawaya medicinal herbs representing 30 plant families were assayed 
+to compare their toxicity and ability to protect MT-2 T-lymphoblastoid cells 
+from the cytopathic effects of HIV. The therapeutic index (TI) of sampled 
+species is defined as the ratio of anti-HIV activity to toxic concentration. A 
+TI of greater than 25 was chosen as the prerequisite for future 
+bioassay-directed isolation of the active components as leads for potential new 
+anti-HIV drugs. TI was greater than 25 for 18 species, including seven greater 
+than 50 and one greater than 100. The anti-HIV activity resided mainly in the 
+aqueous extracts and was concentrated in plants used in ethnomedicine to treat 
+lung and liver diseases.

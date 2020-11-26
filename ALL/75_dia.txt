@@ -1,0 +1,35 @@
+In vitro and in vivo antidiabetic effect of extracts of Melia azedarach, 
+Zanthoxylum alatum, and Tanacetum nubigenum.
+
+Khan MF(1), Rawat AK(2), Khatoon S(3), Hussain MK(4), Mishra A(2), Negi DS(5).
+
+Author information:
+(1)Department of Biotechnology, Era's Lucknow Medical College & Hospital, Era 
+University, Lucknow, India.
+(2)Biochemistry Division, CSIR-Central Drug Research Institute, CSIR, Lucknow, 
+India.
+(3)Department of Botany, D. N. (P.G.) College, Meerut, India.
+(4)Department of Chemistry Govt. Raza Post Graduate College, Rampur, India.
+(5)Department of Chemistry, HNB Garhwal University, Srinagar, India.
+
+BACKGROUND: To investigate the antidiabetic effect of Himalayan Medicinal plants 
+from India viz. Melia azedarach (Family: Meliaceae), Zanthoxylum alatum (Family: 
+Rutaceae), Tanacetum nubigenum (Family: Asteraceae) using in-vitro as well as 
+in-vivo approaches.
+METHODS: Their effects were examined on stimulation of glucose uptake by C2C12 
+cultured cell line, inhibitory effect on human recombinant Protein tyrosine 
+phosphatase-1B (PTP-1B) and followed by the hypoglycaemic activity of extracts 
+in Streptozotocin (STZ) induced diabetic rats.
+RESULTS: All prepared extracts had been found to enrich with polyphenolic, 
+flavonoids, terpenoids, anthraquinones and saponins type of compounds. n-Butanol 
+fraction of Zanthoxylum alatum showed maximum PTP-1B inhibition (61.9%) whereas 
+ethanol extract of Tanacetum nubigenum showed strong stimulation of glucose 
+uptake (+61.2%) in C2Cl2 myotubes. In STZ induced Sprague-Dawley rats, 
+significant decrease in blood glucose level was observed in ethanol extract of 
+Melia azaderach treated group as 14.8% (p < 0.01) whereas in the ethanol extract 
+of Tanacetum nubigenum treated group, it was observed as 15.5% (p < 0.01) 
+compare to metformin which showed 26.8% (p < 0.01) lowering of blood glucose in 
+the same time duration of 5 h study.
+CONCLUSION: This study demonstrated that these plants have a significant 
+therapeutic value in type-2-diabetes mellitus and related complications thus 
+supporting their traditional uses in Indian traditional system of medicine.

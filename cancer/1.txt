@@ -1,0 +1,16 @@
+Synthesis and biological activity of amide derivatives of nimbolide.
+
+Sastry BS(1), Suresh Babu K, Hari Babu T, Chandrasekhar S, Srinivas PV, Saxena 
+AK, Madhusudana Rao J.
+
+Author information:
+(1)Natural Products Laboratory, Division of Organic Chemistry-I, Indian 
+Institute of Chemical Technology, Hyderabad.
+
+Nimbolide (1), a limonoid isolated from Azadirachta indica, is the chief 
+cytotoxic principle in Neem leaves extract. Using nimbolide as a lead compound 
+for anti-cancer analogue design, a series of nimbolide derivatives have been 
+synthesized and evaluated for in vitro cytotoxic activity against a panel of 
+human cancer cell lines. Out of 10 compounds screened 2g, 2h and 2i showed 
+potent activity.
+

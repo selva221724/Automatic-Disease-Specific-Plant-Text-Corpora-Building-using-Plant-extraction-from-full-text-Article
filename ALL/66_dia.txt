@@ -1,0 +1,35 @@
+Inhibition of intestinal glucose absorption by anti-diabetic medicinal plants 
+derived from the James Bay Cree traditional pharmacopeia.
+
+Nistor Baldea LA(1), Martineau LC, Benhaddou-Andaloussi A, Arnason JT, Lévy É, 
+Haddad PS.
+
+Author information:
+(1)Natural Health Products and Metabolic Diseases Laboratory, Department of 
+Pharmacology, Université de Montréal, Quebec, Canada.
+
+BACKGROUND: Type II diabetes and obesity are major health problems worldwide and 
+aboriginal peoples are particularly at risk. To address this problem in Canadian 
+native populations who find modern pharmaceuticals culturally inappropriate, our 
+team is testing the traditional pharmacopeia of the James Bay Cree for 
+anti-diabetic and anti-obesity activities. More specifically, the aim of the 
+present study was to define the effects of traditional plants on intestinal 
+glucose absorption, an under-appreciated anti-hyperglycaemic and anti-obesity 
+activity.
+METHODS: Crude ethanol extracts of 17 Boreal forest medicinal plants were tested 
+in vitro using the Caco-2 human enterocytic cell line and in vivo using an oral 
+glucose tolerance test.
+RESULTS: Thirteen of seventeen extracts were observed to significantly inhibit 
+uptake when administered simultaneously with (3)H-deoxyglucose. Inhibition was 
+dose-dependent and, in a few cases, even surpassed that induced by a combination 
+of the positive controls. To validate these effects in vivo, four plant extracts 
+were administered by intragastric gavage at 250 mg/kg to normal rats 
+simultaneously with a 3g/kg bolus of glucose. This resulted in a decrease in 
+peak glycaemia by approximately 40% for two of them. Similarly, only 2 extracts 
+reduced glucose transport after long term incubation and this could be related 
+to reductions in the expression of SGLT-1 or GLUT-2 proteins.
+CONCLUSIONS: These findings indicate that competitive inhibition of intestinal 
+glucose uptake can be achieved by crude extracts of medicinal plants. Such 
+extracts could be taken with meals to control postprandial glycaemia and reduce 
+caloric intake in high risk populations that are positively inclined towards 
+traditional medicine.

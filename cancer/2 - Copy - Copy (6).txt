@@ -1,0 +1,30 @@
+Multiple Targets Directed Multiple Ligands: An In Silico and In Vitro Approach 
+to Evaluating the Effect of Triphala on Angiogenesis.
+
+Abhinand CS(1), Athira PA(2), Soumya SJ(2), Sudhakaran PR(1)(2).
+
+Author information:
+(1)Department of Computational Biology and Bioinformatics, University of Kerala, 
+Thiruvananthapuram, Kerala, India.
+(2)Inter-University Centre for Genomics and Gene Technology, University of 
+Kerala, Thiruvananthapuram, Kerala, India.
+
+Angiogenesis is critical in both physiological and pathological conditions and 
+targeting angiogenesis is a promising strategy for the development of therapies 
+against cancer; however, cells develop resistance to anti-angiogenic therapy, 
+necessitating a more effective strategy. Natural medicines have been used in 
+anti-cancer therapy for many years, but the mechanisms behind these have not 
+generally been explored. Triphala churna (THL), an Indian ayurvedic herbal 
+formulation made from the dried fruits of three medicinal plants, is used as a 
+herbal drug for the treatment of various diseases, including cancer. THL 
+contains over fifteen phytochemicals with different pharmacological effects, 
+especially inhibition of tumor progression. In this study, we examined the 
+effect of these compounds against different targets using docking and in vitro 
+studies. Results showed that THL has a prediction efficacy of (-436.7), and it 
+inhibited angiogenesis by blocking multiple components of the VEGF/VEGFR2 
+signaling pathway. The anti-angiogenic effect was mediated by the combined 
+effect of the two top ranked phytochemicals, punicalagin (-424.8) and chebulagic 
+acid (-414.8). The new approach developed in this study to determine the 
+potential efficacy of herbal formulation could be a useful strategy to assess 
+the efficacy of different herbal formulations.
+

@@ -1,0 +1,30 @@
+Attenuation of glycation-induced multiple protein modifications by Indian 
+antidiabetic plant extracts.
+
+Tupe RS(1), Kemse NG(1), Khaire AA(1), Shaikh SA(1).
+
+Author information:
+(1)a Biochemical Sciences Division, Rajiv Gandhi Institute of IT and 
+Biotechnology , Bharati Vidyapeeth University , Pune , Maharashtra , India.
+
+CONTEXT: Protein glycation is the major contributing factor in the development 
+of diabetic complications. The antiglycation potential of medicinal plants 
+provides a promising opportunity as complementary interventions for 
+complications.
+OBJECTIVE: To investigate the antiglycation potential of 19 medicinal plants 
+extracts using albumin by estimating different indicators: (1) glycation (early 
+and late), (2) albumin oxidation, and (3) amyloid aggregation.
+MATERIALS AND METHODS: The effect of aqueous plant extracts (1% w/v) on protein 
+glycation was assessed by incubating albumin (10?mg/mL) with fructose (250?mM) 
+for 4 days. Degree of protein glycation in the absence and presence of plant 
+extracts was assessed by estimating fructosamine, advanced glycation end 
+products (AGEs), carbonyls, free thiol group and ß-amyloid aggregation.
+RESULTS: Petroselinum crispum, Boerhavia diffusa, Terminalia chebula, Swertia 
+chirayita and Glycyrrhiza glabra showed significant antiglycating activity. P. 
+crispum and A. barbadensis inhibited the carbonyl stress and protected the thiol 
+group from oxidative damage. There was significant correlation between protein 
+thiols and amyloid inhibition (R?=?-.69, p?<?.001).
+CONCLUSION: P. crispum, B. diffusa and T. chebula had the most potent 
+antiglycation activity. These plant exerted noticeable antiglycation activity at 
+different glycation modifications of albumin. These findings are important for 
+identifying plants with potential to combat diabetic complications.

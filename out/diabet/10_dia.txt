@@ -1,0 +1,11 @@
+The demand for interdisciplinary research is increasing in the new millennium to 
+help us understand complex problems and find solutions by integrating the 
+knowledge from different disciplines. The present review is an excellent example 
+of this and shows how unique combination of physics, chemistry, and biological 
+techniques can be used for the evaluation of Indian medicinal herbs used for 
+treating diabetes mellitus. Laser-induced breakdown spectroscopy (LIBS) is a 
+sensitive optical technique that is widely used for its simplicity and 
+versatility. This review presents the most recent application of LIBS for 
+detection of glycemic elements in medicinal plants. The characteristics of 
+matrices, object analysis, use of laser system, and analytical performances with 
+respect to Indian herbs are discussed.

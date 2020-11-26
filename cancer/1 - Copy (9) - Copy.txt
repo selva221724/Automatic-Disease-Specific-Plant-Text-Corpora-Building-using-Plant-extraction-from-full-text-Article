@@ -1,0 +1,33 @@
+Sanguinarine and Its Role in Chronic Diseases.
+
+Basu P(1), Kumar GS(2).
+
+Author information:
+(1)Biophysical Chemistry Laboratory, Organic and Medicinal Chemistry Division, 
+CSIR- Indian Institute of Chemical Biology, 4, Raja S. C. Mullick Road, Kolkata, 
+700032, India.
+(2)Biophysical Chemistry Laboratory, Organic and Medicinal Chemistry Division, 
+CSIR- Indian Institute of Chemical Biology, 4, Raja S. C. Mullick Road, Kolkata, 
+700032, India. gskumar@iicb.res.in.
+
+The use of natural products derived from plants as medicines precedes even the 
+recorded human history. In the past few years there were renewed interests in 
+developing natural compounds and understanding their target specificity for drug 
+development for many devastating human diseases. This has been possible due to 
+remarkable advancements in the development of sensitive chemistry and biology 
+tools. Sanguinarine is a benzophenanthridine alkaloid derived from rhizomes of 
+the plant species Sanguinaria canadensis. The alkaloid can exist in the cationic 
+iminium and neutral alkanolamine forms. Sanguinarine is an excellent DNA and RNA 
+intercalator where only the iminium ion binds. Both forms of the alkaloid, 
+however, shows binding to functional proteins like serum albumins, lysozyme and 
+hemoglobin. The molecule is endowed with remarkable biological activities and 
+large number of studies on its various activities has been published 
+potentiating its development as a therapeutic agent particularly for chronic 
+human diseases like cancer, asthma, etc. In this article, we review the 
+properties of this natural alkaloid, and its diverse medicinal applications in 
+relation to how it modulates cell death signaling pathways and induce apoptosis 
+through different ways, its utility as a therapeutic agent for chronic diseases 
+and its biological effects in animal and human models. These data may be useful 
+to understand the therapeutic potential of this important and highly abundant 
+alkaloid that may aid in the development of sanguinarine-based therapeutic 
+agents with high efficacy and specificity.

@@ -1,0 +1,38 @@
+Antioxidant, hepatoprotective and cytotoxic effects of icetexanes isolated from 
+stem-bark of Premna tomentosa.
+
+V G M N(1), Atmakur H(2), Katragadda SB(2), Devabakthuni B(3), Kota A(3), S 
+CK(3), Kuncha M(3), M V P S VV(3), Kulkarni P(3), Janaswamy MR(2), Sistla R(4).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, National Institute of 
+Pharmaceutical Education and Research, Hyderabad 500037, India.
+(2)Division of Natural Product Chemistry, CSIR-Indian Institute of Chemical 
+Technology, Hyderabad 500007, India.
+(3)Division of Medicinal Chemistry and Pharmacology, CSIR-Indian Institute of 
+Chemical Technology, Hyderabad 500007, India.
+(4)Division of Medicinal Chemistry and Pharmacology, CSIR-Indian Institute of 
+Chemical Technology, Hyderabad 500007, India. Electronic address: 
+sistla@iict.res.in.
+
+The study investigates the antioxidant, hepatoprotective and antiproliferative 
+effects of novel icetexane diterpenoids (ice 1-4) isolated from hexane extract 
+of stem bark of Premna tomentosa. A549, HT-29, MCF-7, MDA-MB-231, A431 cells 
+were used to assess the antiproliferative activity by MTT assay. Cell death 
+induced by apoptosis was determined by morphological assessment studies using 
+acridine orange/ethidium bromide staining (dual staining), mitochondrial 
+potential measurement by JC-1 staining, and cell cycle analysis by propidium 
+iodide staining method by Muse cell analyser. Anti oxidant activity was 
+investigated by in vitro assays such as DPPH, nitric oxide and superoxide 
+scavenging activities. Hepatoprotective activity was determined in vitro with 
+HepG2 cells and in vivo by tBHP induced hepatic damage mice model. Based on the 
+in vitro cytotoxic assays and morphological assessment studies using 
+fluorescence microscopic study (acridine orange and ethidium bromide double 
+staining) and mitochondrial potential measurements, it was found that ice 2 and 
+3 possess good antiproliferative effect via mitochondrial mediated apoptosis in 
+human lung and breast cancer cells. Results of in vitro antioxidant studies 
+demonstrated that ice-4 has showed good antioxidant activity. The restoration of 
+serum levels of SGOT, SGPT and ALKP, liver GSH status and reduction or 
+inhibition of lipid peroxidation in liver of tBHP intoxicated mice after 
+administration of ice-4 at dose of 250mg/kg indicated its potential use for 
+hepatoprotective activity.

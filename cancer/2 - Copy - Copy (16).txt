@@ -1,0 +1,32 @@
+Antiplasmodial potential of extracts from two species of genus Blumea.
+
+Upadhyay HC(1), Sisodia BS, Verma RK, Darokar MP, Srivastava SK.
+
+Author information:
+(1)Medicinal Chemistry Department, Central Institute of Medicinal and Aromatic 
+Plants (CSIR-CIMAP), Lucknow, India.
+
+CONTEXT: A number of Blumea (Asteraceae) species are being used in traditional 
+Chinese and Indian folklore medicines to cure various diseases including cancer, 
+fungal and bacterial infections.
+OBJECTIVE: To evaluate the in vitro antiplasmodial potential and cytotoxicity of 
+various extracts and fractions of B. membranacea DC and B. eriantha DC and high 
+performance liquid chromatography (HPLC) chemical fingerprinting of their crude 
+extracts.
+MATERIALS AND METHODS: The aerial parts and roots of B. membranacea and B. 
+eriantha were extracted with ethanol and the extracts were successively 
+partitioned with n-hexane, ethyl acetate and n-butanol, which were later 
+evaluated for their in vitro antiplasmodial activity against Plasmodium 
+falciparum NF-54 and in vitro cytotoxicities against non-cancerous Vero cell 
+line. HPLC chemical fingerprinting was performed on extracts of B. membranacea 
+and B. eriantha.
+RESULTS: The n-hexane (MA1), ethyl acetate (MA2) fractions of aerial parts and 
+n-butanol (MR3) fraction of roots of B. membranacea showed IC50 values of 17.4, 
+19.0 and 3.3 µg/mL respectively, while the n-hexane (EA1), ethyl acetate (EA2) 
+fractions of aerial parts and ethyl acetate (ER2) fraction of roots of B. 
+eriantha showed IC50 values of 25.0, 26.5 and 15.6 µg/mL, respectively, against 
+P. falciparum NF-54. All these fractions were non-toxic to Vero cells.
+DISCUSSION AND CONCLUSION: Both B. membranacea and B. eriantha possesses a high 
+degree of selective antiplasmodial activity (selectivity index up to >60) and 
+hence, may find their use in antimalarial phytopharmaceuticals as well as in 
+discovery of a safer and novel antimalarial lead.

@@ -1,0 +1,24 @@
+Identification of potential inhibitors for targets involved in Dengue fever.
+
+Shanmugam A(1), Ramakrishnan C(2), Velmurugan D(3), Gromiha MM(2).
+
+Author information:
+(1)Department of Pharmaceutical Engineering, Vinayaka Mission's Kirupananda 
+Variyar Engineering College, Vinayaka Mission's Research Foundation (Deemed to 
+be University), Salem - 636308. India.
+(2)Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, 
+Indian Institute of Technology (IIT) Madras, Chennai - 600036. India.
+(3)Centre of Advanced Study in Crystallography and Biophysics, University of 
+Madras, Guindy Campus, Chennai - 600025. India.
+
+Lethality due to dengue infection is a global threat. Nearly 400 million people 
+are affected every year, which approximately costs 500 million dollar for 
+surveillance and vector control itself. Many investigations on 
+structure-function relationship of proteins expressed by the dengue virus are 
+being made for more than a decade and had come up with many reports on small 
+molecule drug discovery. In this review, we present a detailed note on viral 
+proteins and their functions as well as the inhibitors discovered/designed so 
+far using experimental and computational methods. Further, the phytoconstituents 
+from medicinal plants, specifically the extract of the papaya leaves, neem and 
+bael, which combat dengue infection via dengue protease, helicase, methyl 
+transferase and polymerase will be summarized.

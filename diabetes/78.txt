@@ -1,0 +1,33 @@
+Availability of essential elements in nutrient supplements used as antidiabetic 
+herbal formulations.
+
+Choudhury RP(1), Reddy AV, Garg AN.
+
+Author information:
+(1)Department of Chemistry, Indian Institute of Technology, Roorkee 247 667, 
+India.
+
+Five brands of antidiabetic herbal formulations as tablets, Diabetex, Divya 
+Madhu Nashini, Jambrushila, Diabeticin, and Madhumeh Nashini, from different 
+pharmacies were analyzed for six minor (Na, K, Ca, Cl, Mg, and P) and 20 trace 
+(As, Ba, Br, Ce, Co, Cr, Cs, Cu, Fe, Hg, La, Mn, Rb, Sb, Sc, Se, Sm, Th, V, and 
+Zn) elements by thermal neutron irradiation followed by high-resolution gamma 
+ray spectrometry. Further Ni, Cd, and Pb were determined by atomic absorption 
+spectrophotometry. Most elements vary in a narrow range by a factor of 2-4 while 
+a few others vary in a wide range, e.g., Na (0.05-0.67 mg/g), Mn (26.7-250 
+microg/g), and V (0.26-2.50 microg/g). All the five brands contain K, Cl, Mg, P, 
+and Ca as minor constituents along with mean trace amounts of Cr (2.11 +/- 0.67 
+microg/g), Cu (15.7 +/- 7.11 microg/g), Fe (459 +/- 171 microg/g), Mn (143 +/- 
+23 microg/g), Se (238 +/- 112 ng/g), and V (0.99 +/- 0.93 microg/g). Jambrushila 
+is enriched in Na, Ca, Mg, Cl, Fe, Cu, Se, and Zn, essential nutrients 
+responsible for curing diabetes. Dietary intake of Mn, Fe, and Cu are greater 
+than 10% of the recommended dietary allowance, whereas that for Zn and Se is 
+less than 2%. Mean contents of toxic elements (As, Cd, Hg, and Pb) were found 
+below permissible limits except in Jambrushila. Cr and Zn were inversely 
+correlated with r = -0.81, whereas Rb and Cs exhibit linear correlation (r = 
+0.93) in five brands. C, H, N analysis showed C approximately 55%, H 
+approximately 12%, and N approximately 2% with a total of approximately 70% 
+organic matter. However, thermal decomposition studies at 700 degrees C suggest 
+less than 5% nonvolatile metal oxides. Herbal formulations contain minor and 
+trace elements in bioavailable forms that favorably influence glucose tolerance 
+and possibly increase the body's ability to ameliorate development of diabetes.

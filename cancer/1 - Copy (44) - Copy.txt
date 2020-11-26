@@ -1,0 +1,28 @@
+In vitro cytotoxic activity of nine plants used in Mayan traditional medicine.
+
+Mena-Rejon G(1), Caamal-Fuentes E, Cantillo-Ciau Z, Cedillo-Rivera R, 
+Flores-Guido J, Moo-Puc R.
+
+Author information:
+(1)Facultad de Química, Laboratorio de Química Orgánica de Investigación, 
+Universidad Autónoma de Yucatán, Calle 41 No. 421, Col. Industrial, C.P. 97150, 
+Mérida, Yuc., Mexico.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Plants have been used in folk medicine by Mayan 
+ancient people from the Yucatan Peninsula, Mexico, to treat some diseases 
+considered as cancer diseases such as chronic wounds or tumors.
+AIM OF THE STUDY: We collected a selection of nine plants in order to 
+investigate their cytotoxic activity against cancer cell lines.
+MATERIALS AND METHODS: Methanolic extracts were tested for their cytotoxicity 
+using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) 
+assay on four cancer cell lines; nasopharynx carcinoma (KB), laryngeal carcinoma 
+(Hep-2), cervix adenocarcinoma (HeLa), and cervix squamous carcinoma cells 
+(SiHa) and one normal cell line; canine kidney (MDCK).
+RESULTS: All species exhibited some degree of cytotoxic activity. The root bark 
+extract of Hamelia patens exhibited the highest cytotoxic activity on HeLa cells 
+with a CC50 of 13 microg/mL and selectivity index of 13.3, higher than 
+docetaxel. Gossypium schottii and Dioon spinulosum showed similar good cytotoxic 
+activity and selectivity index on HeLa and Hep-2 cells, respectively.
+CONCLUSIONS: Hamelia patens, Dioon spinulosum and Gossypium schottii 
+demonstrated promising cytotoxic activity and have been selected for future 
+bio-guided fractionation and isolation of active cytotoxic compounds.

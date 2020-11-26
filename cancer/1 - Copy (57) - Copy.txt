@@ -1,0 +1,41 @@
+Colloidal Vesicular System of Inositol Hexaphosphate to Counteract DMBA Induced 
+Dysregulation of Markers Pertaining to Cellular Proliferation/Differentiation 
+and Inflammation of Epidermal Layer in Mouse Model.
+
+Arya M(1), Tiwari P(2), Tripathi CB(1), Parashar P(1), Singh M(1), Sinha P(3), 
+Yadav NP(3), Kaithwas G(1), Gupta KP(2), Saraf SA(1).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, Babasaheb Bhimrao Ambedkar University 
+, Vidya Vihar, Raebareli Road, Lucknow-226025, U.P., India.
+(2)Environmental Carcinogenesis Division, CSIR-Indian Institute of Toxicology 
+Research , Post Box No. 80, Mahatma Gandhi Marg, Lucknow-226001, U.P., India.
+(3)CSIR-Central Institute of Medicinal and Aromatic Plants , PO CIMAP, 
+Lucknow-226015, U. P., India.
+
+Cancer is a global health problem and chemoprevention is a promising approach 
+for reducing cancer burden. Inositol hexaphosphate (IP6), a natural bioactive 
+constituent of cereals, legumes, etc., has momentous potential as an 
+antiangiogenic agent, that specifically affects malignant cells. The shortcoming 
+is its quick absorption on oral/topical administration. Niosomes are flexible 
+carriers for topical drug delivery. The central venture of current research was 
+to optimize and characterize niosomal delivery system of IP6 for treatment of 
+skin cancer. Thin film hydration method was utilized to prepare IP6 niosomes, 
+and these were dispersed as a suspension in a suitable base. Developed 
+formulations were analyzed for various physicochemical and pharmacological 
+parameters such as particle size, encapsulation efficiency, morphology, drug 
+release, texture analysis, irritability, cell line studies, Western blotting, 
+RT-PCR, and histopathology. IP6 niosomal suspension and IP6 in acetone displayed 
+IC50 value at the concentration of 0.96 mM (0.63 mg/mL) and 1.39 mM (0.92 
+mg/mL), respectively. IP6 niosomal suspension showed significantly higher (p < 
+0.05) activity and showed cytotoxic effect in SK-MEL-2 cancer cell line. Crucial 
+events of cellular proliferation and differentiation, like expression of 
+ornithine decarboxylase (ODC), proliferating cell nuclear antigen (PCNA), 
+cycloxygenase-2 (COX-2) and Cyclin D1 were initiated from the fourth hour 
+through application of 7,12-dimethylbenzanthracene (DMBA) on albino mice. The 
+DMBA altered expression of aforesaid enzymes was significantly (P < 0.001) 
+prevented by concomitant application of niosomal formulations. Results of cell 
+line study, Western blotting, RT-PCR, and histopathology suggested that IP6 
+niosomal suspension could constitute a promising approach for prevention of 
+cellular proliferation as well as DMBA induced dysregulation of cellular 
+proliferation/differentiation and inflammation.

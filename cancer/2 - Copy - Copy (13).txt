@@ -1,0 +1,31 @@
+Glutathione S-transferase M1 and T1 null genotypes as risk factors for oral 
+leukoplakia in ethnic Indian betel quid/tobacco chewers.
+
+Nair UJ(1), Nair J, Mathew B, Bartsch H.
+
+Author information:
+(1)Division of Toxicology and Cancer Risk Factors, German Cancer Research 
+Center, Heidelberg.
+
+Oral cancer is the most common cancer in males and third most common in females 
+in India, the main causative agent being the use of chewing tobacco with or 
+without betel quid (BQ). However, nothing is known about the role of the host 
+metabolic genes in oral cancer in ethnic Indian population. In this study, the 
+prevalence of GSTM1 and GSTT1 null genotypes (GSTM1*2 and GSTT1*2) in oral 
+premalignant leukoplakia cases and controls was ascertained in genomic DNA by a 
+multiplex PCR technique. Biopsies taken from 98 oral leukoplakia patients and 
+exfoliated cells from 82 healthy controls both of Indian ethnicity were 
+analysed. GSTM1*1 (active) was present in 83% and GSTT1*1 (active) was present 
+in 78% of all control subjects, while prevalence of GSTM1*2 and GSTT1*2 null 
+genotypes was significantly higher among oral leukoplakia cases. The prevalence 
+of GSTM1*2 in leukoplakia cases was 81.6% compared with 17% in controls [odds 
+ratio (OR), 22; 95% confidence interval (CI), 1047] and GSTT1*2 was 75.5% in the 
+cases versus 22% in controls (OR, 11; 95% CI, 5-22). Combined null genotypes of 
+GSTM1 and GSTT1 prevailed in 60.2% of the cases with none detected in controls. 
+Glutathione S-transferase M1 and T1 enzymes are both known to catalyse 
+detoxification of reactive oxygen species, lipid peroxidation products and 
+tobacco-derived carcinogens that have been found in the saliva of BQ/tobacco 
+chewers. Our results, still requiring confirmation by a larger study, 
+demonstrate that the null genotypes of both GSTM1 and GSTT1 increase with high 
+penetrance, separately or in combination, the risk for developing leukoplakia in 
+an Indian ethnic population.

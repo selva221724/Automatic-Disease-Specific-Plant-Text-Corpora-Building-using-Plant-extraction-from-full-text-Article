@@ -1,0 +1,19 @@
+Isolation and structure of pedilstatin from a republic of maldives Pedilanthus 
+sp.
+
+Pettit GR(1), Ducki S, Tan R, Gardella RS, McMahon JB, Boyd MR, Pettit GR 3rd, 
+Blumberg PM, Lewin NE, Doubek DL, Tackett LP, Williams MD.
+
+Author information:
+(1)Cancer Research Institute and Department of Chemistry and Biochemistry, 
+Arizona State, University, Tempe 85287-2404, USA.
+
+A new cancer cell growth inhibitor designated pedilstatin (1) was isolated from 
+a Republic of Maldives Pedilanthus sp. The structure was determined to be 
+13-O-acetyl-12-O-[2'Z,4'E-octadienoyl]-4alpha-deoxyphorbol on the basis of 
+high-resolution mass spectral and 2D NMR assignments. Pedilstatin was found to 
+significantly inhibit growth of the P388 lymphocytic leukemia cell line with an 
+ED(50) of 0.28 microg/mL, to afford, at concentrations of 2-5 microM, protection 
+(to 80%) of human-derived lymphoblastoid CEM-SS cells from infection and 
+cell-killing by HIV-1, and to show inhibition of protein kinase C with a K(i) of 
+620 +/- 20 nM.

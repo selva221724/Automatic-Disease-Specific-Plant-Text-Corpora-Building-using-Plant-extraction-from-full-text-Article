@@ -1,0 +1,30 @@
+
+Strategies and techniques for multi-component drug design from medicinal herbs 
+and traditional Chinese medicine.
+
+Wang Y(1), Fan X, Qu H, Gao X, Cheng Y.
+
+Author information:
+(1)Pharmaceutical Informatics Institute, Zhejiang University, Hangzhou, 310058, 
+China.
+
+Many common diseases like diabetes, cardiovascular disease, and cancer are 
+caused or exacerbated by disparate physiological, pathological, environmental, 
+and lifestyle factors. However, the chief aim of current drug discovery 
+approaches is to search for single-entity drugs that interact with well-defined 
+molecular targets (a single receptor or enzyme). The concept of multi-target 
+drugs or multi-component therapy is gaining increased attention with the 
+discovery that many diseases (like hypertension) are best treated by multi-drug 
+or multi-target therapies. Traditional medicines, such as traditional Chinese 
+medicine (TCM) and Indian Ayurveda, have been re-evaluated and are becoming 
+important resources for the discovery of bioactive molecules with therapeutic 
+effects and for designing multi-targets drugs. This article provides an overview 
+of new strategies and techniques to design therapeutic regimes that comprise 
+more than one active ingredient to produce synergistic effects by simultaneously 
+interacting with multiple molecular targets. Advances in phytochemistry, high 
+throughput screening, DNA sequencing, systems biology, and bioinformatics can 
+reveal the chemical composition and molecular mechanisms of TCM and together 
+provide a new template for the early stages of drug discovery. Meanwhile, 
+clinical knowledge of TCM provides a promising framework for multi-component 
+drug design. A renaissance of multi-component drug discovery inspired by 
+traditional medicine is possible.

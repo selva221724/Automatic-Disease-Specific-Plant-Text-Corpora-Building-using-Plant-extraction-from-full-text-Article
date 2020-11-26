@@ -1,0 +1,24 @@
+Cree antidiabetic plant extracts display mechanism-based inactivation of CYP3A4.
+
+Tam TW(1), Liu R, Arnason JT, Krantis A, Staines WA, Haddad PS, Foster BC.
+
+Author information:
+(1)Department of Cellular and Molecular Medicine, University of Ottawa, ON, 
+Canada.
+
+Seventeen Cree antidiabetic medicinal plants were studied to determine their 
+potential to inhibit cytochrome P450 3A4 (CYP3A4) through mechanism-based 
+inactivation (MBI). The ethanolic extracts of the medicinal plants were studied 
+for their inhibition of CYP3A4 using the substrates testosterone and 
+dibenzylfluorescein (DBF) in high pressure liquid chromatography (HPLC) and 
+microtiter fluorometric assays, respectively. Using testosterone as a substrate, 
+extracts of Alnus incana, Sarracenia purpurea, and Lycopodium clavatum were 
+identified as potent CYP3A4 MBIs, while those from Abies balsamea, Picea 
+mariana, Pinus banksiana, Rhododendron tomentosum, Kalmia angustifolia, and 
+Picea glauca were identified as less potent inactivators. Not unexpectedly, the 
+other substrate, DBF, showed a different profile of inhibition. Only A. balsamea 
+was identified as a CYP3A4 MBI using DBF. Abies balsamea displayed both NADPH- 
+and time-dependence of CYP3A4 inhibition using both substrates. Overall, several 
+of the medicinal plants may markedly deplete CYP3A4 through MBI and, 
+consequently, decrease the metabolism of CYP3A4 substrates including numerous 
+medications used by diabetics.

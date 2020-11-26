@@ -1,0 +1,25 @@
+A herbal medicine for the treatment of lung cancer.
+
+Ranga RS(1), Sowmyalakshmi S, Burikhanov R, Akbarsha MA, Chendil D.
+
+Author information:
+(1)Department of Clinical Sciences, College of Health Sciences, University of 
+Kentucky, Lexington, KY 40536-0200, USA.
+
+Lung cancer is the leading cause of cancer-related deaths throughout the world. 
+Extracts of medicinal plants are believed to contain different chemopreventive 
+or chemotherapeutic compounds. In this study, we determined the anti-cancer 
+property of one of the traditional Indian medicine Rasagenthi Lehyam (RL) for 
+the treatment of lung cancer. Two lung cancer cell lines (A-549 and H-460) and 
+one normal bronchial epithelial (BEAS-2B) cell line were used to test the 
+chemotherapeutic effect of RL. Out of five fractions of RL, chloroform fraction 
+of RL (cRL) demonstrated a significant inhibition of cell proliferation and 
+induction of apoptosis in A-549 and H-460 cells but not in normal BEAS-2B cells. 
+The cRL fraction up-regulated the pro-apoptotic genes p53 and Bax and induced 
+caspase-3 activation, and down-regulated the pro-survival gene Bcl-2 in both the 
+lung cancer cell lines. Also, nuclear export of p53 was seen in cRL-treated lung 
+cancer cells. In addition, cRL induced G2/M arrest of cell cycle and enhanced 
+the radio-sensitivity of both the lung cancer cell lines. This study suggests 
+that cRL may prove to be a potent anti-cancer agent that may be used for the 
+treatment of lung cancer. However, further studies are required to bring cRL 
+into the mainstream of medicine in the treatment of lung cancer.

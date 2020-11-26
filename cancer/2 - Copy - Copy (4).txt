@@ -1,0 +1,26 @@
+Epigallocatechin gallate, a constituent of green tea, represses hepatic glucose 
+production.
+
+Waltner-Law ME(1), Wang XL, Law BK, Hall RK, Nawano M, Granner DK.
+
+Author information:
+(1)Department of Molecular Physiology and Biophysics, Vanderbilt University 
+School of Medicine, Nashville, Tennessee 37232-0615, USA.
+
+Herbs have been used for medicinal purposes, including the treatment of 
+diabetes, for centuries. Plants containing flavonoids are used to treat diabetes 
+in Indian medicine and the green tea flavonoid, epigallocatechin gallate (EGCG), 
+is reported to have glucose-lowering effects in animals. We show here that the 
+regulation of hepatic glucose production is decreased by EGCG. Furthermore, like 
+insulin, EGCG increases tyrosine phosphorylation of the insulin receptor and 
+insulin receptor substrate-1 (IRS-1), and it reduces phosphoenolpyruvate 
+carboxykinase gene expression in a phosphoinositide 3-kinase-dependent manner. 
+EGCG also mimics insulin by increasing phosphoinositide 3-kinase, 
+mitogen-activated protein kinase, and p70(s6k) activity. EGCG differs from 
+insulin, however, in that it affects several insulin-activated kinases with 
+slower kinetics. Furthermore, EGCG regulates genes that encode gluconeogenic 
+enzymes and protein-tyrosine phosphorylation by modulating the redox state of 
+the cell. These results demonstrate that changes in the redox state may have 
+beneficial effects for the treatment of diabetes and suggest a potential role 
+for EGCG, or derivatives, as an antidiabetic agent.
+

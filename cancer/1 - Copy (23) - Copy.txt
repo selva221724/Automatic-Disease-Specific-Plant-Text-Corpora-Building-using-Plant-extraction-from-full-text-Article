@@ -1,0 +1,32 @@
+Chemopreventative strategies targeting the MGMT repair protein: augmented 
+expression in human lymphocytes and tumor cells by ethanolic and aqueous 
+extracts of several Indian medicinal plants.
+
+Niture SK(1), Rao US, Srivenugopal KS.
+
+Author information:
+(1)Center for Cancer Biology, Department of Pharmaceutical Sciences, Texas Tech 
+University Health Sciences Center, Amarillo, TX 79106, USA.
+
+O6-alkylguanines are potent mutagenic, pro-carcinogenic and cytotoxic lesions 
+induced by exogenous and endogenous alkylating agents. A facilitated elimination 
+of these lesions by increasing the activity of O6-methylguanine-DNA 
+methyltransferase (MGMT) is likely to be a beneficial chemoprevention strategy, 
+which, however, has not been examined. Because, a marginal enhancement of this 
+protein may be adequate for genomic protection, we studied alterations in MGMT 
+activity and expression in human peripheral blood lymphocytes and cancer cell 
+lines induced by water-soluble and alcohol-soluble constituents of several 
+plants with established antioxidant and medicinal properties. Both the ethanolic 
+and aqueous extracts from neem (Azadirachta indica), holy basil (Ocimum 
+sanctum), winter cherry (Withania somnifera), and oregano (Origanum majorana) 
+increased the levels of MGMT protein and its demethylation activity in a 
+time-dependent manner with a maximum of 3-fold increase after 72-h treatment. 
+The extracts from gooseberry (Emblica officinalis), common basil (Ocimum 
+basilicum), and spearmint (Mentha viridis) were relatively less efficient in 
+raising MGMT levels. Increased levels of MGMT mRNA accounted at least, in part, 
+for the increased activity of the DNA repair protein. The herbal treatments also 
+increased glutathione S-transferase-pi (GSTP1) expression, albeit to a lesser 
+extent than MGMT. These data provide the first evidence for the upregulation of 
+human MGMT by plant constituents and raise the possibility of rational dietary 
+approaches for attenuating alkylation-induced carcinogenesis. Further, they 
+reveal the putative antioxidant responsiveness of the MGMT gene in human cells.

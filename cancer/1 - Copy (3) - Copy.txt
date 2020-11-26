@@ -1,0 +1,55 @@
+Mucuna pruriens (L.) DC chemo sensitize human breast cancer cells via 
+downregulation of prolactin-mediated JAK2/STAT5A signaling.
+
+Sinha S(1), Sharma S(2), Vora J(1), Shah H(3), Srivastava A(2), Shrivastava 
+N(4).
+
+Author information:
+(1)Department of Pharmacognosy and Phytochemistry, B. V. Patel Pharmaceutical 
+Education and Research Development (PERD) Centre, Ahmedabad, Gujarat, India; 
+Registered Ph.D. student at Department of Life Science, School of Science, 
+Gujarat University, Ahmedabad, Gujarat, India.
+(2)Department of Pharmacognosy and Phytochemistry, B. V. Patel Pharmaceutical 
+Education and Research Development (PERD) Centre, Ahmedabad, Gujarat, India.
+(3)Department of Pharmacognosy and Phytochemistry, B. V. Patel Pharmaceutical 
+Education and Research Development (PERD) Centre, Ahmedabad, Gujarat, India; 
+Department of Biotechnology, National Institute of Pharmaceutical Education and 
+Research (NIPER)-Ahmedabad, Gandhinagar, 382355, Gujarat, India.
+(4)Department of Pharmacognosy and Phytochemistry, B. V. Patel Pharmaceutical 
+Education and Research Development (PERD) Centre, Ahmedabad, Gujarat, India. 
+Electronic address: neetas@perdcentre.com.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Mucuna pruriens (L.) DC (MP) is an ancient 
+Indian medicinal plant traditionally used to treat Parkinson's disease. L-Dopa 
+(LD), precursor of dopamine is abundantly found in the seeds of MP. L-dopa is a 
+natural inhibitor of prolactin (PRL) hormone which is required to maintain 
+lactation in women but it's over production (hyperprolactinemia) plays critical 
+role in advancement of breast cancer.
+AIM OF THE STUDY: We aim to examine the pharmacological effect of LD and MP on 
+this hyperprolactinemia associated breast cancer and related signaling for 
+effective management of the disease. We also investigated chemo-sensitizing 
+effect of MP on hyperprolactinemia-mediated cisplatin resistance.
+MATERIALS AND METHODS: Methanolic seed extract of MP were prepared and analysed 
+using HPLC. Effect of LD and MP on the cellular viability of breast cancer cells 
+(T47D, MCF-7, MDA-MB-468 and MDA-MB-231) were evaluated using MTT assay. 
+Further, effect of LD and MP on colony forming potential, DNA damage, cell cycle 
+distribution and apoptosis was determined using agar/agarose method, comet assay 
+and annexin and PI method followed by FACS analysis. To reveal the molecular 
+mechanism involved in the anti-cancer activity of MP, transcriptional and 
+translational level analysis of the key proteins involved in the PRL-mediated 
+signaling, was performed using RT-PCR and western blot analysis. The effect of 
+MP extract on PRL-mediated signaling was validated using dopaminergic agonist 
+bromocriptine. MP extract and cisplatin was given in different combination with 
+appropriate controls to check their effect on chemo-resistivity of breast cancer 
+cells.
+RESULTS: Our results demonstrated that MP seed extract has the potential to 
+inhibit cellular proliferation of PRL expressing T47D and MCF-7 breast cancer 
+cells via induction of DNA damage, G1 phase of cell cycle arrest and apoptosis 
+more effectively as compare to LD. Further, MP-mediated anti-cancerous effect 
+was associated with the downregulation of PRL expression, further suppressing 
+the JAK2/STAT5A/Cyclin D1 signaling pathway which has been validated using 
+dopaminergic agonist bromocriptine. Cancer-related hyperprolactinemia confers 
+cisplatin resistance, we observed that MP via PRL inhibition, enhances cisplatin 
+efficacy after their combinatorial treatment in breast cancer cells.
+CONCLUSIONS: Collectively, our study suggests that MP could be recommended as 
+dietary supplement along with the chemotherapeutic agents against breast cancer.

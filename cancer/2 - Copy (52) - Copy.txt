@@ -1,0 +1,34 @@
+Cell cycle effects and caspase-dependent and independent death of HL-60 and 
+Jurkat cells treated with the inhibitor of NF-kappaB parthenolide.
+
+Pozarowski P(1), Halicka DH, Darzynkiewicz Z.
+
+Author information:
+(1)Brander Cancer Research Institute, New York Medical College, Valhalla, New 
+York, USA.
+
+The sesquiterpene parthenolide (PRT) is an active component of Mexican-Indian 
+medicinal plants and also of the common herb of European origin feverfew. PRT is 
+considered to be a specific inhibitor of NF-kappaB. Human leukemic HL-60, 
+Jurkat, and Jurkat IkappaBalphaM cells, the latter expressing a 
+dominant-negative IkappaBalpha and thus having non-functional NF-kappaB, were 
+treated with PRT and activation of caspases, plasma membrane integrity, DNA 
+fragmentation, chromatin condensation (probed by DNA susceptibility to 
+denaturation), and changes in cell morphology were determined. As a positive 
+control for apoptosis cells were treated with topotecan (TPT) and H2O2. At 2-8 
+microM concentration PRT induced transient cell arrest in G2 and M followed by 
+apoptosis. A narrow range of PRT concentration (2-10 microM) spanned its 
+cytostatic effect, induction of apoptosis and induction of necrosis. In fact, 
+necrotic cells were often seen concurrently with apoptotic cells at the same PRT 
+concentration. Atypical apoptosis was characterized by loss of plasma membrane 
+integrity very shortly after caspases activation. In contrast, a prolonged phase 
+of caspase activation with preserved integrity of plasma membrane was seen 
+during apoptosis induced by TPT or H2O2. Necrosis induced by PRT was also 
+atypical, characterized by rapid rupture of plasma membrane and no increase in 
+DNA susceptibility to denaturation. Using Jurkat cells with inactive NF-kappaB 
+we demonstrate that cell cycle arrest and the mode of cell death induced by PRT 
+were not caused by inhibition of NF-kappaB. The data suggest that regardless of 
+caspase activation PRT targets plasma membrane causing its destruction. A 
+caution, therefore, should be exercised in interpreting data of the experiments 
+in which PRT is used with the intention to specifically prevent activation of 
+NF-kappaB.

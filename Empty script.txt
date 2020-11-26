@@ -1,0 +1,10 @@
+Diabetes, a metabolic disorder, affects nearly 7% of world population and predicted that it would be the
+seventh leading cause of death by the year of 2030. The prevalence and morbidity of diabetes are
+increasing rapidly because of the lifestyle and diet changes occurring with urbanization. Medicinal
+plants and their derivatives have been proven to be an effective and safe therapy offering various
+benefits, for example, the moderate reduction in hypoglycaemia, in the treatment and prevention of
+diabetes. However, the identification of such valuable Indian medicinal plants for diabetes from
+biomedical literature is not comprehensively explored Curcuma longa. In this study, we have investigated Indian medicinal plants for diabetes in the biomedical literature using text data mining technique. We
+discovered a total of 203 Indian medicinal plants for diabetes in 355 articles out of 15651 articles of text
+corpus in the dataset. In addition, we analysed the importance of Indian medicinal plants for the
+treatment of diabetes by means of the frequency of 203 plants Coccinia grandis in 355 articles, which identified 22 antidiabetic Indian medicinal plants that showed ≥ 9 frequencies. Momordica charantia, also known as bitter melon, had the highest frequency (≥ 51 frequencies) among 203 Indian plants Terminalia chebula, indicating that it is the most important Indian medicinal plant Terminalia chebula for the treatment of diabetes Swertia chirata. In addition, we compared the Mangifera indica identified 203 plants with previously reported database of anti-diabetic Indian medicinal plants, which showed the identification of 100 new anti-diabetic Ficus racemosa Indian medicinal plants. The results from this study could provide helpful information for future experimental and clinical studies, and the development of future therapeutic for diabetes

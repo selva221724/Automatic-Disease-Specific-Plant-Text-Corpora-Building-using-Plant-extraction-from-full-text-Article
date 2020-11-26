@@ -1,0 +1,30 @@
+Anticancer activity and toxicity profiles of 2-benzylidene indanone lead 
+molecule.
+
+Singh A(1), Fatima K(1), Singh A(1), Behl A(2), Mintoo MJ(2), Hasanain M(3), 
+Ashraf R(3), Luqman S(1), Shanker K(1), Mondhe DM(2), Sarkar J(3), Chanda D(1), 
+Negi AS(4).
+
+Author information:
+(1)CSIR-Central Institute of Medicinal and Aromatic Plants (CSIR-CIMAP), Kukrail 
+Picnic Spot Road, P.O. CIMAP, Lucknow 226015, India.
+(2)CSIR-Indian Institute of Integrative Medicine (CSIR-IIIM), Canal Road, Jammu 
+180001, India.
+(3)CSIR-Central Drug Research Institute (CSIR-CDRI), B.S. 10/1, Sector 10, 
+Jankipuram Extension, Sitapur Road, Lucknow 226031, India.
+(4)CSIR-Central Institute of Medicinal and Aromatic Plants (CSIR-CIMAP), Kukrail 
+Picnic Spot Road, P.O. CIMAP, Lucknow 226015, India. Electronic address: 
+arvindcimap@rediffmail.com.
+
+3-(3',4',5'-Trimethoxyphenyl)-4,5,6-trimethoxy,2-(3?,4?-methylenedioxybenzylidene)-indan-1-one 
+(1) is an optimized anti-cancer lead molecule obtained on modification of gallic 
+acid, a plant phenolic acid. It exhibited potent cytotoxicities 
+(IC50=0.010-14.76µM) against various human carcinoma cells. In cell cycle 
+analysis, benzylidene indanone 1 induced G2/M phase arrest in both MCF-7 and 
+MDA-MB-231 cells. It also induced apoptosis in DU145 cells which was evident by 
+cleavage of PARP. In Ehrlich ascites carcinoma, benzylidene indanone 1 showed 
+45.48% inhibition of tumour growth at 20mg/kg dose in Swiss albino mice. 
+Further, in sub-acute toxicity experiment in Swiss-albino mice, it was found to 
+be non-toxic up to 100mg/kg dose for 28days. The lead compound benzylidene 
+indanone 1 can further be optimized for better anti-cancer activity.
+

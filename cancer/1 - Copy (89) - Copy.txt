@@ -1,0 +1,36 @@
+The tumor proteasome is a primary target for the natural anticancer compound 
+Withaferin A isolated from "Indian winter cherry".
+
+Yang H(1), Shi G, Dou QP.
+
+Author information:
+(1)The Prevention Program, Barbara Ann Karmanos Cancer Institute, and Department 
+of Pathology, School of Medicine, Wayne State University, 640.1 HWCRC, 4100 John 
+R Road, Detroit, MI 48201, USA.
+
+Erratum in
+    Mol Pharmacol. 2015 May;87(5):865.
+
+Withaferin A (WA) is a steroidal lactone purified from medicinal plant "Indian 
+Winter Cherry" that is widely researched for its variety of properties, 
+including antitumor effects. However, the primary molecular target of WA is 
+unknown. By chemical structure analysis, we hypothesized that Withaferin A might 
+be a natural proteasome inhibitor. Computational modeling studies consistently 
+predict that C1 and C24 of WA are highly susceptible toward a nucleophilic 
+attack by the hydroxyl group of N-terminal threonine of the proteasomal 
+chymotrypsin subunit beta5. Furthermore, WA potently inhibits the 
+chymotrypsin-like activity of a purified rabbit 20S proteasome (IC50=4.5 microM) 
+and 26S proteasome in human prostate cancer cultures (at 5-10 microM) and 
+xenografts (4-8 mg/kg/day). Inhibition of prostate tumor cellular proteasome 
+activity in cultures and in vivo by WA results in accumulation of ubiquitinated 
+proteins and three proteasome target proteins (Bax, p27, and IkappaB-alpha) 
+accompanied by androgen receptor protein suppression (in androgen-dependent 
+LNCaP cells) and apoptosis induction. Treatment of WA under conditions of the 
+aromatic ketone reduction, or reduced form of Celastrol, had significantly 
+decreased the proteasome-inhibitory and apoptosis-inducing activities. Treatment 
+of human prostate PC-3 xenografts with WA for 24 days resulted in 70% inhibition 
+of tumor growth in nude mice, associated with 56% inhibition of the tumor tissue 
+proteasomal chymotrypsinlike activity. Our results demonstrate that the tumor 
+proteasome beta5 subunit is the primary target of WA, and inhibition of the 
+proteasomal chymotrypsin-like activity by WA in vivo is responsible for, or 
+contributes to, the antitumor effect of this ancient medicinal compound.

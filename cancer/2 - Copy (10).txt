@@ -1,0 +1,23 @@
+Inhibition of thymidylate synthase by pergularinine, tylophorinidine and 
+deoxytubulosine.
+
+Rao KN(1), Bhattacharya RK, Veankatachalam SR.
+
+Author information:
+(1)Radiation Biology and Biochemistry Division, Bhabha Atomic Research Centre, 
+Mumbai, India. rbbd@magnum.barct1.ernet.in
+
+The activity of thymidylate synthase (TS) purified in our laboratory from 
+Lactobacillus leichmannii was inhibited by pergularinine (PGL) and 
+tylophorinidine (TPD) and deoxytubulosine (DTB) isolated from the Indian 
+medicinal plants Pergularia pallida and Alangium lamarckii respectively. 
+Cytotoxicity studies showed that cell growth of L. leichmannii was inhibited 
+(IC50 = 40-45 microM) by all the three alkaloids, the concentrations > 80-90 
+microM resulting in complete loss of the enzyme activity. Ki values of the 
+enzyme calculated from Lineweaver-Burk and Dixon plots for PGL, TPD and DTB were 
+10 x 10(-6) M, 9 x 10(-6) M and 7 x 10(-6) M respectively. These are typed as 
+'non-competitive' inhibitors of TS. All the three alkaloids inhibited (IC50 = 50 
+microM) the elevated TS activity of leukocytes in cancer patients with 
+clinically diagnosed chronic myelocytic leukemia (n = 10), acute lymphocytic 
+leukemia (n = 8) and metastatic solid tumours (n = 3).
+

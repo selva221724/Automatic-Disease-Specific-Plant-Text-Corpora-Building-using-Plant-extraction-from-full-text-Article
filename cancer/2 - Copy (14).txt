@@ -1,0 +1,32 @@
+Withaferin A induces apoptosis by activating p38 mitogen-activated protein 
+kinase signaling cascade in leukemic cells of lymphoid and myeloid origin 
+through mitochondrial death cascade.
+
+Mandal C(1), Dutta A, Mallick A, Chandra S, Misra L, Sangwan RS, Mandal C.
+
+Author information:
+(1)Department of Infectious diseases and Immunology, Indian Institute of 
+Chemical Biology, 4 Raja S.C. Mullick Road, Kolkata 700 032, India.
+
+Withaferin A (WA) is present abundantly in Withania somnifera, a well-known 
+Indian medicinal plant. Here we demonstrate how WA exhibits a strong 
+growth-inhibitory effect on several human leukemic cell lines and on primary 
+cells from patients with lymphoblastic and myeloid leukemia in a dose-dependent 
+manner, showing no toxicity on normal human lymphocytes and primitive 
+hematopoietic progenitor cells. WA-mediated decrease in cell viability was 
+observed through apoptosis as demonstrated by externalization of 
+phosphatidylserine, a time-dependent increase in Bax/Bcl-2 ratio; loss of 
+mitochondrial transmembrane potential, cytochrome c release, caspases 9 and 3 
+activation; and accumulation of cells in sub-G0 region based on DNA 
+fragmentation. A search for the downstream pathway further reveals that 
+WA-induced apoptosis was mediated by an increase in phosphorylated p38MAPK 
+expression, which further activated downstream signaling by phosphorylating 
+ATF-2 and HSP27 in leukemic cells. The RNA interference of p38MAPK protected 
+these cells from WA-induced apoptosis. The RNAi knockdown of p38MAPK inhibited 
+active phosphorylation of p38MAPK, Bax expression, activation of caspase 3 and 
+increase in Annexin V positivity. Altogether, these findings suggest that 
+p38MAPK in leukemic cells promotes WA-induced apoptosis. WA caused increased 
+levels of Bax in response to MAPK signaling, which resulted in the initiation of 
+mitochondrial death cascade, and therefore it holds promise as a new, 
+alternative, inexpensive chemotherapeutic agent for the treatment of patients 
+with leukemia of both lymphoid and myeloid origin.

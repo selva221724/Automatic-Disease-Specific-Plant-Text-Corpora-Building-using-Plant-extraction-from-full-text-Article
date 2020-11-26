@@ -1,0 +1,26 @@
+Cytotoxic Potential and Molecular Characterization of Fungal Endophytes from 
+Selected High Value Medicinal Plants of the Kashmir Valley - India.
+
+Dar RA(1), Qazi PH(1), Saba I(1), Rather SA(1), Wani ZA(2), Qazi AK(2), Shiekh 
+AA(1), Manzoor A(1), Hamid A(2), Modae DM(2).
+
+Author information:
+(1)Biotechnology Division, CSIR - Indian Institute of Integrative Medicine, 
+Sanatnagar - Srinagar, Kashmir, India.
+(2)Cancer Pharmacology Division, CSIR - Indian Institute of Integrative 
+Medicine, Jammu - Tawi, India.
+
+The present study explores the fungal endophytes from selected high value 
+medicinal plants to check their activities at in-vitro and in-vivo level. The 
+in-vitro cytotoxicity of selected endophytes revealed potent growth inhibition 
+against human cancer cell lines of leukemia (THP-1), lung (A549), prostate 
+(PC-3), colon (Caco-2), neuroblastoma (IMR-32) and breast (MCF-7) at a 
+concentration of 100 µg/ml. Among them the endophytic strains I. e., IIIM2, 
+IIIM3, IIIM7 and IIIM8 showed most significant growth inhibition against colon 
+(Caco-2), prostate (PC-3), lung (A549) and leukemia (THP-1) cancer cell lines. 
+At the in-vivo level maximum (58.95%) tumor growth inhibition was documented 
+with the extract of IIIM2 against Ehrlich Ascites Carcinoma mouse modal. All the 
+potent fungal endophytic strains were characterized using ITS 4 and ITS 5 region 
+sequencing and phylogenetic analysis was ascertained among them. This paper 
+confirms the 2 elite endophytic fungal strains, IIIM2 and IIIM8, have the 
+potential to act as a source of new anticancer compounds.

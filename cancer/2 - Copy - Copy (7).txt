@@ -1,0 +1,31 @@
+Mutations and polymorphisms in the p53, p21 and p16 genes in oral carcinomas of 
+Indian betel quid chewers.
+
+Heinzel PA(1), Balaram P, Bernard HU.
+
+Author information:
+(1)Laboratory for Papillomavirus Biology, Institute of Molecular and Cell 
+Biology, National University of Singapore.
+
+India has one of the world's highest incidences of oral cancer. It is believed 
+that the widespread habit of betel quid chewing is an important risk factor as 
+it exposes the oral mucosa to known carcinogens. It also induces physical 
+abrasions, which may create mitogenic environments during wound healing as 
+gateways for infections. A recent study from our laboratories identified human 
+papillomavirus (HPV) DNA, mostly of the high-risk types HPV-16 and HPV-18, in 67 
+of 91 oral cancer lesions from a cohort of Indian patients consisting mostly of 
+betel quid users. This suggested a viral etiology of some lesions but 
+tumorigenesis in the absence of viruses in other lesions. Here, we examined 
+whether the p53 gene, whose function is abrogated by the product of the HPV gene 
+E6, would be mutated in those oral cancers that were free of HPV DNA, and we 
+found point mutations at known hot spots for mutational alteration of p53 in 4 
+of 23 lesions. We also considered the possibility that p21, a target of 
+regulation by the p53 protein, may be mutationally altered in tumors with a 
+functional p53 gene. While we did not identify mutations in the p21 gene, 6 of 
+11 lesions contained a polymorphism that may be associated with cancer. 
+Interestingly, 3 of 23 lesions had mutations in the p16 gene, a third regulator 
+of the cell cycle which is frequently mutated in melanoma but rarely in other 
+cancers, with 1 lesion even having a mutation in the p53 as well as in the p16 
+gene. Our data point to p53 and p16 as gene targets of oral carcinogenesis, with 
+chemicals in the betel quid possibly functioning in these tumors as carcinogens.
+

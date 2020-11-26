@@ -1,0 +1,27 @@
+
+OBJECTIVE: Measurement of glucose uptake into peripheral tissue is an important 
+mechanism to assess Insulin sensitivity. The present in vitro study was 
+conducted to evaluate the Insulin sensitizing activity of Phyllanthus emblica 
+(Pe), Tinospora cordifolia (Tc) and Curcuma longa (Cl) by assessing glucose 
+uptake activity in a 3T3L1 adipocyte model.
+MATERIALS AND METHODS: The 3T3 L1 fibroblast cells were differentiated to 
+adipocytes, using a cocktail of insulin, isobutyl-1-methylxanthine and 
+dexamethazone. These adipocytes were initially treated with different 
+concentrations of the selected plants following which 2-deoxy glucose uptake was 
+estimated using a radioactive assay. The effects of plants on glucose uptake 
+both in the presence and absence of insulin was evaluated and compared with 
+pioglitazone, a known insulin sensitizer.
+RESULTS: Pe and Tc per se significantly stimulated glucose uptake in 3T3-L1 
+adipocytes in a dose dependent manner with maximal effect at higher 
+concentrations (200 µg/ml). The effect of both Pe and Tc at 200 µg/ml was 
+comparable to insulin and greater than pioglitazone. Cl per se stimulated 
+glucose uptake with maximal effect at 50 µg/ml. However, this effect was lesser 
+as compared to insulin with higher concentrations inhibiting glucose uptake. 
+When combined with insulin, an antagonist effect was observed between Pe, Tc and 
+insulin indicating a possible plant-drug interaction while Cl in combination 
+with insulin showed an increase in the glucose uptake as compared to Cl alone.
+CONCLUSION: The results suggest that one of the mechanisms for the anti-diabetic 
+effect of Pe, Cl and Tc may be through an insulin sensitizing effect 
+(stimulation of glucose uptake into adipocytes). Further studies using other 
+target sites viz. skeletal muscle and hepatocytes models and in an insulin 
+resistant state would help substantiate this conclusion.

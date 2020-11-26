@@ -1,0 +1,24 @@
+In vitro glucose uptake activity of Aegles marmelos and Syzygium cumini by 
+activation of Glut-4, PI3 kinase and PPARgamma in L6 myotubes.
+
+Anandharajan R(1), Jaiganesh S, Shankernarayanan NP, Viswakarma RA, Balakrishnan 
+A.
+
+Author information:
+(1)Centre For Biotechnology, Anna University, Chennai 600025, India.
+
+The purpose of the present study is to investigate the effect of methanolic 
+extracts of Aegles marmelos and Syzygium cumini on a battery of targets glucose 
+transporter (Glut-4), peroxisome proliferator activator receptor gamma 
+(PPARgamma) and phosphatidylinositol 3' kinase (PI3 kinase) involved in glucose 
+transport. A. marmelos and S. cumini are anti-diabetic medicinal plants being 
+used in Indian traditional medicine. Different solvent extracts extracted 
+sequentially were analysed for glucose uptake activity at each step and methanol 
+extracts were found to be significantly active at 100ng/ml dose comparable with 
+insulin and rosiglitazone. Elevation of Glut-4, PPARgamma and PI3 kinase by A. 
+marmelos and S. cumini in association with glucose transport supported the 
+up-regulation of glucose uptake. The inhibitory effect of cycloheximide on A. 
+marmelos- and S. cumini-mediated glucose uptake suggested that new protein 
+synthesis is required for the elevated glucose transport. Current observation 
+concludes that methanolic extracts of A. marmelos and S. cumini activate glucose 
+transport in a PI3 kinase-dependent fashion.

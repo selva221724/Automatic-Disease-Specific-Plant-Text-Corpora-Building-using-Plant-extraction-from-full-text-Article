@@ -1,0 +1,40 @@
+In Vitro Production of Echioidinin, 7-O-Methywogonin from Callus Cultures of 
+Andrographis lineata and Their Cytotoxicity on Cancer Cells.
+
+Mohammed A(1), Chiruvella KK(2), Rao YK(3), Geethangili M(3), Raghavan SC(4), 
+Ghanta RG(5).
+
+Author information:
+(1)Faculty of Agrobased Industry, Universiti Malaysia Kelantan, Jeli Campus, 
+Locked bag-100, 17600, Jeli, Kelantan, Malaysia; Division of Plant Tissue 
+Culture, Department of Botany, Sri Venkateswara University, Tirupati, Andhra 
+Pradesh, India.
+(2)Department of Biochemistry, Indian Institute of Science, Bangalore 560 012, 
+India; Division of Plant Tissue Culture, Department of Botany, Sri Venkateswara 
+University, Tirupati, Andhra Pradesh, India.
+(3)Department of Applied Chemistry, Chaoyang University of Technology, Taichung, 
+Taiwan.
+(4)Department of Biochemistry, Indian Institute of Science, Bangalore 560 012, 
+India.
+(5)Division of Plant Tissue Culture, Department of Botany, Sri Venkateswara 
+University, Tirupati, Andhra Pradesh, India.
+
+Andrographis lineata is an herbal medicinal plant used in traditional medicine 
+as a substitute for Andrographis paniculata. Here, using mature leaf explants of 
+A. lineata we demonstrate for the first time the callus induction established on 
+MS medium containing 1.0 mg l-1 IAA. Dried callus was subjected to solvent 
+extraction with acetone. Further the acetone residue was separated by silica gel 
+column chromatography, crystallized and characterized on the basis of nuclear 
+magnetic resonance (proton and c13) and liquid chromatographic mass 
+spectroscopy. This analysis revealed the occurrence of two known flavones 
+namely, 7-O-methylwogonin (MW) and Echioidinin (ED). Furthermore, these 
+compounds were tested for their cytotoxicity against leukemic cell line, CEM. We 
+identify that ED and MW induced cytotoxicity in a time- and 
+concentration-dependent manner. Further increase in the LDH release upon 
+treatment with ED and MW further confirmed our cytotoxicity results against 
+leukemic cell line. Strikingly, MW was more potent than ED when compared by 
+trypan blue and MTT assays. Our results recapitulate the utility of callus 
+cultures for the production of plant specific bioactive secondary metabolites 
+instead of using wild plants. Together, our in vitro studies provide new 
+insights of A. lineata callus cultures serving as a source for cancer 
+chemotherapeutic agents.

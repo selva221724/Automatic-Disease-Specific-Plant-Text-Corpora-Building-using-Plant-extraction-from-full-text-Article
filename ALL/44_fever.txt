@@ -1,0 +1,34 @@
+In vitro anti-proliferative and antioxidant studies on Devil's Club Oplopanax 
+horridus.
+
+Tai J(1), Cheung S, Cheah S, Chan E, Hasman D.
+
+Author information:
+(1)Department of Pathology and Pediatrics, Center for Complementary Medicine 
+Research, BC Child and Family Research Institute, University of British 
+Columbia, Vancouver, BC, Canada. jtai@interchange.ubc.ca
+
+Devil's Club, Oplopanax horridus (OH), is a widely used folk medicine in Alaska 
+and British Columbia for treating a variety of ailments including arthritis, 
+fever and diabetes. HPLC profiling shows that numerous compounds are present in 
+the 70% ethanolic extract of OH dry root bark powder. OH extract inhibited K562, 
+HL60, MCF7 and MDA-MB-468 cell growth with the 50% inhibition (IC(50)) estimated 
+at 1/2700, 1/1700, 1/500 and 1/2500 dilutions, respectively. Non-cytotoxic 
+concentrations (<IC(50)) of OH extract combined with non-cytotoxic 
+concentrations (<IC(50)) of camptothecin (CAM) or paclitaxel (PTX) were tested 
+on the tumor cell lines. Of the 19 combinations tested, 9 showed additive or 
+synergistic anti-proliferative effect while the rest showed antagonistic effect. 
+Combination of OH extract at 1/4000 and 1/16,000 dilutions with 0.1 microM of 
+CAM produced additive, anti-proliferative effects on K562 cells, as did 1/2000 
+and 1/1000 dilutions of OH combined with 2.5 nM of PTX on MCF7, and 1/4000 
+dilution of OH with 1 nM of PTX on MDA-MB-468 cells. Combination of 1/8000 and 
+1/4000 dilution of OH with 0.05 microM of CAM showed strong synergistic 
+anti-proliferative effects on HL60 cells. At non-cytotoxic 1/4000 dilution, OH 
+induced 13.1% of HL60 cells to differentiate into granulocytes but had no effect 
+on monocyte/macrophage differentiation. A cell free hydroxyl radical scavenging 
+assay estimated that OH at 1/100, 1/10 and 1/5 dilutions showed activities 
+equivalent to 2.7, 15.7 and 25.6 microM of Trolox, respectively. At 
+non-cytotoxic 1/4000 and 1/2000 dilutions, OH significantly reduced nitric oxide 
+production by lipopolysaccharide activated RAW 264.7 cells (p<0.001). Our data 
+show that the ethanolic extract of OH has anti-proliferative on several cancer 
+cell lines, and has strong antioxidant activity.

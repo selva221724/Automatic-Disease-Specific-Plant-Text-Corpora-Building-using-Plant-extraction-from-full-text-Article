@@ -1,0 +1,25 @@
+Lupeol induces p53 and cyclin-B-mediated G2/M arrest and targets apoptosis 
+through activation of caspase in mouse skin.
+
+Nigam N(1), Prasad S, George J, Shukla Y.
+
+Author information:
+(1)Proteomics Laboratory, Indian Institute of Toxicology Research, Council of 
+Scientific & Industrial Research, P.O. Box 80, M.G. Marg, Lucknow-226001, UP, 
+India.
+
+Lupeol, present in fruits and medicinal plants, is a biologically active 
+compound that has been shown to have various pharmacological properties in 
+experimental studies. In the present study, we demonstrated the modulatory 
+effect of lupeol on 7,12-dimethylbenz[a]anthracene (DMBA)-induced alterations on 
+cell proliferation in the skin of Swiss albino mice. Lupeol treatment showed 
+significant (p < 0.05) preventive effects with marked inhibition at 48, 72, and 
+96 h against DMBA-mediated neoplastic events. Cell-cycle analysis showed that 
+lupeol-induced G2/M-phase arrest (16-37%) until 72 h, and these inhibitory 
+effects were mediated through inhibition of the cyclin-B-regulated signaling 
+pathway involving p53, p21/WAF1, cdc25C, cdc2, and cyclin-B gene expression. 
+Further lupeol-induced apoptosis was observed, as shown by an increased sub-G1 
+peak (28%) at 96 h, with upregulation of bax and caspase-3 genes and 
+downregulation of anti-apoptotic bcl-2 and survivin genes. Thus, our results 
+indicate that lupeol has novel anti-proliferative and apoptotic potential that 
+may be helpful in designing strategies to fight skin cancer.

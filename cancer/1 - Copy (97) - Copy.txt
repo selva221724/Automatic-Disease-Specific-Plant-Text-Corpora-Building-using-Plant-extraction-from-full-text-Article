@@ -1,0 +1,35 @@
+Induction of apoptosis by lupeol in human epidermoid carcinoma A431 cells 
+through regulation of mitochondrial, Akt/PKB and NFkappaB signaling pathways.
+
+Prasad S(1), Madan E, Nigam N, Roy P, George J, Shukla Y.
+
+Author information:
+(1)Proteomics Laboratory, Indian Institute of Toxicology Research, Mahatma 
+Gandhi Marg, Lucknow, India.
+
+Comment in
+    Cancer Biol Ther. 2009 Sep;8(17):1648-50.
+
+The rising incidence of skin cancer in humans makes it equivalent to 
+malignancies of organs. Therefore, it is necessary to intensify our efforts for 
+better understanding and development of novel treatment and preventive 
+approaches for skin cancer. Fruits and other plant derived products have gained 
+considerable attention as they can reduce the risk of several cancer types. 
+Lupeol, a triterpene, present in many fruits and medicinal plants, has been 
+shown to possess many pharmacological properties including anti-cancer effect in 
+both in vitro and in vivo assay systems. In the present study, apoptosis 
+inducing effects of lupeol were studied in human epidermoid carcinoma A431 
+cells. Cell cycle analysis showed that lupeol treatment induces apoptosis 
+(14-37%) in a dose-dependent manner as evident by an increased sub G(1) cell 
+population. The RT-PCR and Western blot analysis showed that lupeol-induced 
+apoptosis was associated with caspase dependent mitochondrial cell death pathway 
+through activation of Bax, caspases, Apaf1, decrease in Bcl-2 expression and 
+subsequent cleavage of PARP. Lupeol treatment also inhibited Akt/PKB signaling 
+pathway by inhibition of Bad (Ser136) phosphorylation and 14-3-3 expression. In 
+addition, lupeol treatment inhibited cell survival by inactivation of NFkappaB 
+through upregulation of its inhibitor Ikappabetaalpha. The Caspase mediated 
+apoptosis was noticed by decrease in lupeol induced apoptosis by Caspase 
+inhibitors as well as increase in reactive oxygen species generation and loss of 
+mitochondrial membrane potential. These results suggest that lupeol could be an 
+effective anti-cancer agent and merits further investigation.
+

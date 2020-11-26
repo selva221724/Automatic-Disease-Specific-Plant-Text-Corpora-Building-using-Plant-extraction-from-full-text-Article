@@ -1,0 +1,39 @@
+
+The enriched fraction of Elephantopus scaber Triggers apoptosis and inhibits 
+multi-drug resistance transporters in human epithelial cancer cells.
+
+Beeran AA(1), Maliyakkal N(1), Rao CM(1), Udupa N(2).
+
+Author information:
+(1)Department of Pharmacology, Manipal College of Pharmaceutical Sciences, 
+Manipal University, Manipal, Karnataka, India.
+(2)Department of Pharmacy Management, Manipal College of Pharmaceutical 
+Sciences, Manipal University, Manipal, Karnataka, India.
+
+BACKGROUND: Medicinal plants have played an important role in the development of 
+clinically useful anticancer agents. Elephantopus scaber (Asteraceae) (ES) is 
+widely used in Indian traditional system of medicine for the treatment of 
+various ailments including cancer.
+OBJECTIVE: To investigate anticancer effects of ES in human epithelial cancer 
+cells.
+MATERIALS AND METHODS: Cytotoxicity of ethanolic extract of ES (ES-ET) and its 
+fractions, such as ES Petroleum ether fraction (ES-PET), ES Dichloromethane 
+fraction (ES DCM), n Butyl alcohol fraction (ES-BT), and ES-Rest (ES-R) were 
+assessed in human epithelial cancer cell lines using sulforhodamine B (SRB) 
+assay. Acridine orange/ethidium bromide assay and Hoechst 33342 assays were used 
+to gauge induction of apoptosis. Cell cycle analysis and micronuclei assay were 
+used to assess cell cycle specific pharmacological effects and drug induced 
+genotoxicty. Further, the ability of ES to inhibit multi drug resistant (MDR) 
+transporters (ABC-B1 and ABC-G2) was determined by Rhodamine (Rho) and 
+Mitoxantrone (MXR) efflux assays.
+RESULTS: The enriched fraction of ES (ES DCM) possessed dose-dependent potent 
+cytotoxicity in human epithelial cancer cells. Further, treatment of cancer 
+cells (HeLa, A549, MCF-7, and Caco-2) with ES DCM showed hall mark properties of 
+apoptosis (membrane blebbing, nuclear condensation etc.). Similarly, ES DCM 
+caused enhanced sub G0 content and micronuclei formation indicating the 
+induction of apoptosis and drug induced genotoxicity in cancer cells, 
+respectively. Interestingly, ES DCM inhibited MDR transporters (ABC B1 and ABC 
+G2) in cancer cells.
+CONCLUSION: The enriched fraction of ES imparted cytotoxic effects, triggered 
+apoptosis, induced genotoxicity, and inhibited MDR transporters in human 
+epithelial cancer cells. Thus, ES appears to be potential anticancer agent.

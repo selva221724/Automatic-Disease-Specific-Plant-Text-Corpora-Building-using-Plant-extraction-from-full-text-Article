@@ -1,0 +1,20 @@
+Antineoplastic agents 540. The Indian Gynandropsis gynandra (Capparidaceae).
+
+Pettit GR(1), Meng Y, Herald DL, Stevens AM, Pettit RK, Doubek DL.
+
+Author information:
+(1)Cancer Research Institute and Department of Chemistry and Biochemistry, 
+Arizona State University, Tempe, P.O. Box 872404, Tempe, AZ 85287-2404, USA. 
+bpettit@asu.edu
+
+The CH3OH-CH2Cl2 extract of an Indian collection (entire plant) of Gynandropsis 
+gynandra (L.) Briq. was separated based on bioassay results employing cancer 
+cell lines. Six cancer cell growth inhibitors were isolated and found to be 
+known flavone apegenin (4) and flavonols 1-3, 5, and 6. The structure of 
+flavonol 2 was confirmed by X-ray crystal structure determination. All of the 
+five flavonols (1-3, 5, 6) inhibited the murine P388 lymphocytic leukemia cell 
+line with ED50 values of 3.0, 9.2, 4.0, 0.37, and 3.9 microg/ml, respectively. 
+All six of the flavonoids (1-6) also exhibited activity against a panel of six 
+human cancer cell lines. Penduletin (3) inhibited growth of the Gram-negative 
+pathogen Neisseria gonorrhoeae and apegenin (4) inhibited growth of the 
+Gram-positive opportunist Enterococcus faecalis.

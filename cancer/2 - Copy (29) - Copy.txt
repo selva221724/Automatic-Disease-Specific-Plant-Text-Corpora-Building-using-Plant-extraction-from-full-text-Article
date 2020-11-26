@@ -1,0 +1,31 @@
+The apoptosis inducing effect of Glycosmis pentaphylla (Retz.) Correa and its 
+influence on gene expression in hepatocellular carcinoma cell line, Hep3 B.
+
+Sreejith PS(1), Mascarenhas RR, Praseeja RJ, Asha VV.
+
+Author information:
+(1)Bioprospecting and Molecular Pharmacology Laboratory, Rajiv Gandhi Centre for 
+Biotechnology, Thiruvananthapuram, India.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Glycosmis pentaphylla (Retz.) Correa is used in 
+Indian traditional medicine against jaundice and other liver disorders.
+AIM OF THE STUDY: The study aims to determine the in vitro anticancer and 
+apoptosis inducing activity of Glycosmis pentaphylla in hepatocellular carcinoma 
+cell line, Hep3 B.
+MATERIALS AND METHODS: The cytotoxic and apoptosis inducing activity of the 
+crude extract and active fractions were estimated on Hep3 B and RAW264.7 cell 
+lines by MTT assay, Hoechst staining, DNA fragmentation, morphological studies, 
+reverse transcription polymerase chain reaction and 
+anti-poly-(ADP-ribose)-polymerase assays. The phytochemical profiling of active 
+extract was done by TLC and HPTLC methods.
+RESULTS: Ethanol extract of Glycosmis pentaphylla was more effective than other 
+extracts in reducing the proliferation of Hep3 B cells. As revealed by the 
+results from DNA fragmentation, Hoechst staining, morphological studies, RT-PCR, 
+PARP cleavage and gene expression studies, active extract induced apoptosis on 
+Hep3 B cell line in concentration and time dependent manner with increase in the 
+Bax/Bcl2 gene expression ratio. Chemo profiling data revealed the presence of 
+flavonoid in the active fraction.
+CONCLUSIONS: The study showed that major active component in the ethanol extract 
+of Glycosmis pentaphylla is a flavonoid which induces apoptosis on cancer cell 
+line, Hep3 B, by increasing the expression ratio of Bax/Bcl2 genes in a time and 
+dose dependent manner.

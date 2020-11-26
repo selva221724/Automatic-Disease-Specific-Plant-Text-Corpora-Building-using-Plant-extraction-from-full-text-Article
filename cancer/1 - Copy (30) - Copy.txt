@@ -1,0 +1,30 @@
+Methyl angolensate from callus of Indian redwood induces cytotoxicity in human 
+breast cancer cells.
+
+Chiruvella KK(1), Panjamurthy K, Choudhary B, Joy O, Raghavan SC.
+
+Author information:
+(1)Department of Biochemistry, Indian Institute of Science, Bangalore, India.
+
+AIM: Natural products discovered from medicinal plants have played an important 
+role in the treatment of cancer. Methyl angolensate (MA), a tetranortriterpenoid 
+obtained from the root callus of Indian Redwood tree, Soymida febrifuga Roxb. 
+(A.Juss) was tested for its anticancer properties on breast cancer cells.
+METHODS: Cell viability was tested using trypan blue, MTT and LDH assays. 
+Tritiated thymidine assay and flowcytometry were used to study effect of MA on 
+cell proliferation. The activation of apoptosis was checked by annexin V and 
+JC-1 staining followed by FACS analysis. Immunoblotting analysis was used for 
+studying expression of apoptotic and DNA double strand break repair proteins.
+RESULTS: We find that MA inhibited the growth of breast cancer cell line, T47D 
+in a time- and dose-dependent manner. MA treatment led to the inhibition of cell 
+proliferation as detected by tritiated thymidine assay and flowcytometry. 
+Further, MA treated cells exhibited typical apoptotic morphological changes and 
+led to the accumulation of subG1 peak in cell cycle distribution. The induction 
+of apoptosis was further confirmed both by annexin V staining and JC1 staining. 
+We also find that MA activates MAP kinase pathway to induce apoptosis. Besides, 
+we find a time dependent activation followed by degradation of DNA double-strand 
+break repair proteins upon treatment with MA.
+CONCLUSION: These results suggest that MA induces cytotoxicity in breast cancer 
+cells. Further, the altered expression of DSB repair proteins in MA treated 
+cells may control the induction of apoptosis in these cancer cells.
+

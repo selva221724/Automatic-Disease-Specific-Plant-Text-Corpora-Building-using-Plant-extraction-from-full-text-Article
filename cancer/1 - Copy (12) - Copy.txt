@@ -1,0 +1,36 @@
+Selective induction of DNA damage, G2 abrogation, and mitochondrial apoptosis by 
+leaf extract of traditional medicinal plant Wrightia arborea in K562 cells.
+
+Lakshmipriya T(1), Soumya T(1), Jayasree PR(2), Manish Kumar PR(3).
+
+Author information:
+(1)Department of Biotechnology, University of Calicut, Malappuram, Kerala, 
+673635, India.
+(2)School of Health sciences, University of Calicut, Malappuram, 673635, India.
+(3)Department of Biotechnology, University of Calicut, Malappuram, Kerala, 
+673635, India. manishramakrishnan@rediffmail.com.
+
+Plants have proved to be an important source of anti-cancer drugs. Wrightia 
+arborea, an Indian Ayurvedic medicinal plant, is used traditionally to treat a 
+variety of ailments. This study evaluates the antiproliferative/apoptotic 
+potential of Wrightia arborea leaf extracts, prepared in different organic 
+solvents, on cancer cell lines. MTT assay, light and fluorescence microscopy, 
+flow cytometry, DNA laddering, alkaline comet assay, and western blotting were 
+some of the techniques used for evaluation. Combinations of camptothecin, either 
+with CHK1 inhibitor-PD407824 or with W. arborea leaf extract, were deployed to 
+determine the G2 abrogating potential of the extract. The chloroform extract 
+(WAC) selectively killed K562 cells, without affecting cancerous MCF-7, Hep G2 
+cells, and normal human peripheral blood lymphocytes. Cell death was 
+characterized by observation of apoptotic bodies, increased Ca2+ and ROS, 
+phosphatidyl serine externalization, mitochondrial membrane depolarization, DNA 
+laddering, increased sub-G1 population, and altered expression of caspase 3, -9, 
+and PARP. WAC also induced DNA damage, alterations in key G2/M phase protein 
+expression, cell cycle perturbation, and potent G2 abrogation. The present study 
+showed that W. arborea leaf extract, WAC, is capable of selectively killing 
+leukemic cancer cells leaving normal lymphocytes unaffected. Our results 
+indicate that this is effectuated through DNA damage and G2 abrogation leading 
+to mitochondrial apoptosis. Taken together, this report contributes toward a 
+better understanding of the anticancer properties of this traditional medicinal 
+plant extract possessing valuable bioactive constituents which can serve as a 
+bioresource for promising complimentary/alternative/chemopreventive 
+therapeutics.

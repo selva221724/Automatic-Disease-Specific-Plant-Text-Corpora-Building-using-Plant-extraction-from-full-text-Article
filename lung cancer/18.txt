@@ -1,0 +1,20 @@
+Cytotoxic evaluation of semisynthetic ester and amide derivatives of oleanolic 
+acid.
+
+Gupta S(1), Kalani K, Saxena M, Srivastava SK, Agrawal SK, Suri N, Saxena AK.
+
+Author information:
+(1)Analytical Chemistry Division, Central Institute of Medicinal and Aromatic 
+Plants, P.O. CIMAP, Lucknow-226015, India.
+
+Although a number of chemicals have been isolated from Lantana camara, only a 
+few have been evaluated for their biological significance. As part of our drug 
+discovery program for cytotoxic agents from Indian medicinal plants, roots of L. 
+camara L. were chemically investigated, which resulted in the isolation and 
+identification of a cytotoxic agent, oleanolic acid (1b) as a major constituent. 
+Oleanolic acid was converted into six semi-synthetic ester (2-7) and seven amide 
+(8-14) derivatives. The ester derivatives (2-7) showed 3-6 times more selective 
+activity than 1b against the human ovarian cancer cell line (IGR-OV-1), while 
+amide derivatives 8-14 showed 16-53 times more selective activity against the 
+human lung cancer cell line (HOP-62). Structure activity relationship within the 
+ester (2-7) and amide (8-14) derivatives are discussed.

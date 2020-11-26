@@ -1,0 +1,44 @@
+Extract of Penicillium sclerotiorum an endophytic fungus isolated from Cassia 
+fistula L. induces cell cycle arrest leading to apoptosis through mitochondrial 
+membrane depolarization in human cervical cancer cells.
+
+Kuriakose GC(1), Lakshmanan M D(2), Bp A(1), Rs HK(1), Th AK(1), Ananthaswamy 
+K(1), C J(3).
+
+Author information:
+(1)Department of Biochemistry, Indian Institute of Science, Bangalore 560012, 
+India.
+(2)Department of Biochemistry, Indian Institute of Science, Bangalore 560012, 
+India; Yenepoya Research Centre, Yenepoya University, University Road, Mangalore 
+575018, India.
+(3)Department of Biochemistry, Indian Institute of Science, Bangalore 560012, 
+India. Electronic address: cjb@biochem.iisc.ernet.in.
+
+Seventeen endophytic fungi were isolated from various tissues of Cassia fistula 
+and the ethyl acetate extracts obtained from 21-day cultures of all the 
+endophytic fungal isolates were initially screened for their cytotoxicity 
+against HeLa (human cervical carcinoma) cells using MTT assay. Of these, 
+Penicillium sclerotiorum extract (PSE), significantly affected the viability of 
+HeLa cells in a dose-dependent manner. The extract of P. Sclerotiorum was 
+further analyzed by GC-MS, which showed three compounds, hexadecanoic acid, 
+oleic acid and benzoic acid to be the major active principles in the 
+extracts.The extract was further tested for invitro cytotoxicity against five 
+cancer cell lines. Of the cell lines tested, HeLa cells showed maximum 
+sensitivity followed by A549, while A431 and U251 were moderately sensitive and 
+MCF-7 was insensitive to the treatment. In addition, normal human embryonic 
+kidney cells, HEK293 remained insensitive to the treatment. Furthermore, the 
+mechanism of cytotoxic activity exhibited by PSE was investigated by evaluating 
+cell cycle progression and apoptotic induction in HeLa cells. Cell cycle 
+analysis revealed that the PSE arrested cells at S and G2/M phase of the cell 
+cycle in a dose-dependent manner. Annexin V- Propidium iodide double staining 
+showed that, the extract potentiates apoptosis rather than necrosis in cells. 
+This was supported by the down regulation in the proapoptotic protein BCL2 and 
+up regulation of BAX (BCL2 Associated X), tumor suppressor protein, p53 and 
+Apaf-1 [Apoptotic Peptidase Activating Factor 1]. Loss of mitochondrial membrane 
+potential and a distinct DNA fragmentation pattern observed following the 
+treatment, suggest that the PSE treatment leads to activation of mitochondrial 
+pathway of apoptosis. Further, the extract also exhibited both antioxidant and 
+anti-angiogenic properties. These results indicate that endophytic fungi 
+isolated from medicinal plants may serve as potential sources of the 
+anti-cancerous compounds.
+

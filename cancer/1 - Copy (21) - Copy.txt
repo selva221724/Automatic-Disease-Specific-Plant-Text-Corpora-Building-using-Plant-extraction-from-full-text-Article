@@ -1,0 +1,35 @@
+Cytotoxic activity of selected West Indian medicinal plants against a human 
+leukaemia cell line.
+
+Ramcharan G(1), Clement YN, Maxwell AR.
+
+Author information:
+(1)Pharmacology Unit, Faculty of Medical Sciences, The University of the West 
+Indies, St Augustine, Trinidad and Tobago, West Indies.
+
+OBJECTIVE: To assess the cytotoxic activities of crude extracts and solvent 
+fractions of Spermacoce verticillata, Ficus pumila and Flemingia strobilifera 
+against a MT-4 human leukaemia cancer cell line.
+METHODS: Crude extracts of dried leaves of S verticillata, F pumila and F 
+strobilifera were made by exhaustive methanol extraction, fractions were 
+obtained from sequential extraction of the crude extract using solvents of 
+increasing polarity. Dose responses corresponding to cell survival following 
+72-hour exposure to the extracts were determined using a leukaemia cancer cell 
+line (MT-4). Cell viability was assessed using the MTT[3-(4, 
+5-dimethylthiazol-2-yl)-2, 5-diphenyl tetrazolium bromide] assay reading 
+absorbances at 570 nm. Comparisons were made with controls and cell survival, in 
+each sample well, was determined based on the ratio of the absorbance of the 
+sample to the control.
+RESULTS: Crude extracts of S verticillata, F pumila and F strobilifera displayed 
+cytotoxicity and the IC50 values were 89 microg/ml, 131 microg/ml and 81 
+microg/ml, respectively. The petroleum ether and chloroform fractions of the 
+crude extracts of S verticillata and F strobilifera showed potent cytotoxic 
+activity but the highest cytotoxic activity was found in the chloroform and 
+butanol fractions of F pumila with IC50 values of 23 microg/ml and 26 microg/ml, 
+respectively.
+CONCLUSION: The crude extracts of S verticillata, F pumila and F strobilifera 
+were shown to be cytotoxic to the leukaemia cell line, MT-4 and IC50 values were 
+determined. Fractionation of the crude extracts by solvent-solvent extraction 
+enabled determination of the active fractions and their IC50 values. We propose 
+that cytotoxic activity may be due to antioxidant compounds previously isolated 
+from these plants.

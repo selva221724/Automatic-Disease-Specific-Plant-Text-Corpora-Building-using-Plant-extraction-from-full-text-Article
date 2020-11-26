@@ -1,0 +1,33 @@
+
+A RP-HPLC-DAD-APCI/MSD method for the characterisation of medicinal Ericaceae 
+used by the Eeyou Istchee Cree First Nations.
+
+Saleem A(1), Harris CS, Asim M, Cuerrier A, Martineau L, Haddad PS, Arnason JT.
+
+Author information:
+(1)Laboratory for the Analysis of Natural and Synthetic Environmental Toxins 
+(LANSET), Centre for Research in Biotechnology and Biopharmaceuticals, 
+Department of Biology, University of Ottawa, Ottawa, Ontario K1N6N5, Canada.
+
+INTRODUCTION: Ericaceae medicinal plants are traditionally used by the Eeyou 
+Istchee Cree and other northern peoples of North America to treat type 2 
+diabetic symptoms. Because of the importance of phenolics as potential cures for 
+degenerative diseases including type 2 diabetes, an analytical method was 
+developed to detect them in the leaf extracts of 14 Ericaceae plants.
+OBJECTIVE: To develop an optimised method which is applicable to a relatively 
+large number of Ericaceae plants using their leaf extracts. For this purpose 
+phenolics with a wide range of polarity, including a glucosylated benzoquinone, 
+two phenolic acids, three flavanols, a flavanone, a flavone and five flavonols, 
+were included in this study.
+METHODOLOGY: Characterisation of phytochemicals in extracts was undertaken by 
+automated matching to the UV spectra to those of an in house library of plant 
+secondary metabolites and the authentication of their identity was achieved by 
+reversed phase-high-performance chromatography-diode array detection-atmospheric 
+pressure chemical ionisation/mass selective detection.
+RESULTS: Twenty-six phenolics were characterised within 26 min of 
+chromatographic separation in 80% ethanol extracts of 14 Ericaceae plants. The 
+calibration curves were linear within 0.5-880 microg/g dry mass of the plant 
+with regression values better than 0.995. The limits of detection ranged from 
+0.3 for microg/mL for (+)-catechin to 2.6 microg/mL for chlorogenic acid. This 
+is a first study dealing with relatively large number of Ericaceae extracts and 
+is applicable to other plants of same family.

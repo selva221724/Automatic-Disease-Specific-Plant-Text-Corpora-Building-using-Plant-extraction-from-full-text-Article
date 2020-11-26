@@ -1,0 +1,39 @@
+Moringa oleifera's Nutritious Aqueous Leaf Extract Has Anticancerous Effects by 
+Compromising Mitochondrial Viability in an ROS-Dependent Manner.
+
+Madi N(1), Dany M(2), Abdoun S(3), Usta J(1).
+
+Author information:
+(1)a Department of Biochemistry and Molecular Genetics , American University of 
+Beirut, Faculty of Medicine , Beirut , LEBANON.
+(2)b Medical University of South Carolina , Charleston , South Carolina.
+(3)c Agricultural Engineer , Khartoum , SUDAN.
+
+INTRODUCTION: Moringa oleifera (MO) is an important dietary component for many 
+populations in West Africa and the Indian subcontinent. In addition to its 
+highly nutritious value, almost all parts of this plant have been widely used in 
+folk medicine in curing infectious, cardiovascular, gastrointestinal, hepatic, 
+and other diseases. Evidence-based research supported its versatile medicinal 
+properties; however, more rigorous research is required to establish it in 
+cancer therapy. As such, in this study we aim to investigate the in vitro 
+anticancerous effect of Moringa oleifera's aqueous leaf extract.
+METHODS: Moringa extract was prepared by soaking pulverized leaves in hot water 
+mimicking the people's mode of the leaf drink preparation. Several assays were 
+used to study the effect of different percentage concentrations of the extract 
+on viability of A549 cells; levels of adenosine triphosphate (ATP), reactive 
+oxygen species (ROS), and glutathione (GSH) generated; as well as percentage of 
+lactate dehydrogenase (LDH) released at different time points. In addition to 
+mitochondrial membrane potential, apoptotic events were assessed using western 
+blotting for apoptotic markers and immunoflourescent flourescent labeled 
+inhibitor of caspases (FLICA) assay.
+RESULTS: MO extract treatment resulted in a significant decrease in 
+mitochondrial membrane potential (1 hour) and ATP levels (3 hours), followed by 
+an increase in (6 hours) ROS, caspase activation, proapoptotic proteins 
+expression (p53, SMAC/Diablo, AIF), and PARP-1 cleavage. This eventually 
+resulted in decreased GSH levels and a decrease in viability. The cytotoxic 
+effect was prevented upon pretreatment with antioxidant N-acetyl-cysteine. MO 
+decreased as well the viability of HepG2, CaCo2, Jurkat, and HEK293 cells.
+CONCLUSION: Our findings identify a plant extract with an anticancerous effect 
+on cancer cell lines. MO extract exerts its cytotoxic effect in A549 cancer 
+cells by affecting mitochondrial viability and inducing apoptosis in an 
+ROS-dependent manner.

@@ -1,0 +1,41 @@
+Factors affecting commencement and cessation of betel quid chewing behaviour in 
+Malaysian adults.
+
+Ghani WM(1), Razak IA, Yang YH, Talib NA, Ikeda N, Axell T, Gupta PC, Handa Y, 
+Abdullah N, Zain RB.
+
+Author information:
+(1)Oral Cancer Research & Coordinating Centre, Faculty of Dentistry, University 
+of Malaya, Kuala Lumpur, Malaysia.
+
+BACKGROUND: Betel quid chewing is a common habit widely practiced in Southern 
+Asian populations. However, variations are seen in the content of a betel quid 
+across the different countries. Factors associated with commencement and 
+cessation of this habit has been numerously studied. Unfortunately, data on 
+Malaysian population is non-existent. This study aims to determine the factors 
+associated with the inception and also cessation of betel quid chewing behaviour 
+among Malaysian adults.
+METHOD: This study is part of a nationwide survey on oral mucosal lesions 
+carried out among 11,697 adults in all fourteen states in Malaysia. The 
+questionnaire included sociodemographic information and details on betel quid 
+chewing habit such as duration, type and frequency. The Kaplan-Meier estimates 
+were calculated and plotted to compare the rates for the commencement and 
+cessation of betel quid chewing behaviour. Cox proportional hazard regression 
+models were used to calculate the hazard rate ratios for factors related to 
+commencement or cessation of this habit.
+RESULTS: Of the total subjects, 8.2% were found to be betel quid chewers. This 
+habit was more prevalent among females and, in terms of ethnicity, among the 
+Indians and the Indigenous people of Sabah and Sarawak. Cessation of this habit 
+was more commonly seen among males and the Chinese. Females were found to be 
+significantly more likely to start (p < 0.0001) and less likely to stop the quid 
+chewing habit. Females, those over 40 years old, Indians and a history of 
+smoking was found to significantly increase the likelihood of developing a quid 
+chewing habit (p < 0.0001). However, those who had stopped smoking were found to 
+be significantly more likely to promote stopping the habit (p = 0.0064). 
+Cessation was also more likely to be seen among those who chewed less than 5 
+quids per day (p < 0.05) and less likely to be seen among those who included 
+areca nut and tobacco in their quid (p < 0.0001).
+CONCLUSION: Factors that influence the development and cessation of this 
+behaviour are gender, age, ethnicity, and also history of smoking habit while 
+frequency and type of quid chewed are important factors for cessation of this 
+habit.
